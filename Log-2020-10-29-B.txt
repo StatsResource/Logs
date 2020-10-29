@@ -1,0 +1,75 @@
+
+
+A.  Time Series Analysis
+
+ - add subsections
+
+=======================================
+
+B. Game Theory  & Decision Theory
+
+ - add subsections
+ - Bayesian Decision Theory (remove from index)
+
+
+=======================================
+
+C.  Inference Procedures
+
+ - add subsections & Structure
+ - Confidence Intervals
+ - Tables
+ - Hypothesis Testing
+
+=======================================
+D. Survival Analysis
+ - add subsections & Structure
+ - Tables
+
+=======================================
+E. Experimental Design 
+ - add subsections & Structure
+ - Tables
+
+
+========================================
+F.
+Survival Models - Cox Regression Model
+12:47
+CT4-2015-April-Q7CoxRegression.mp4 
+========================================
+G.
+Survival Analysis - Kaplan Meier Estimates (Lightbulb Example)
+11:42
+StatsResource.github.io | Survival Analysis | Kaplan Meier Estimates
+CT4-April-2013-Q7-Survival-KaplanMeier.mp4 
+========================================
+H.
+Survival Analysis - Nelson Aalen Estimates
+StatsResource.github.io | Survival Analysis | Nelson-Aalen Estimates 
+
+CT4-April-2013-Q7-NelsonAalen-SurvivalAnalysis.mp4
+
+
+===========================================================
+I.
+Survival Analysis - Kaplan Meier Estimates
+StatsResource.github.io | Survival Analysis | Kaplan Meier Estimates 
+
+Survival Analysis Kaplan Meier Insects CT4 2005 April B5.mp4
+
+===========================================================
+J.
+Survival Analysis - Tutorial Question on Maximum Likelihood Estimates
+MathsResource.github.io | Survival Analysis
+Survival_Analysis_HC3_1998_q7_partA.mp4 
+
+===========================================================
+Outstanding from 2020-10-29-A
+Survival Analysis - Kaplan Meier Survival Estimates
+StatsResource.github.io | Survival Analysis | Kaplan Meier
+
+----------------------------------------------------------
+
+kaplan meier, survival analysis, survival models, 
+kaplan meier survival analysis
