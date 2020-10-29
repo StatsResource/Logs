@@ -29,37 +29,46 @@ f(x;\lambda,k) =
 where $k > 0$ is the shape parameter and $\lambda > 0$ is the scale parameter of the distribution.
 
 
+CHECK
 
+https://github.com/MathsResource/ProbabilityDistributions/blob/master/000-06-H-GammaParetoDistribution.tex
 ========================================================================
 C.
 Cox Models
+Actioned
 ========================================================================
 D.
 Censoring
+Actioned
 ========================================================================
 E.
 Kaplan Meier
-
+Actioned
 ========================================================================
 F.
 Dixon Q-Test
 Inference Procedures
+Actioned
 ========================================================================
 G.
 Exponential Distributions
 (Probability Distributions)
 Review Questions
 https://github.com/MathsResource/ProbabilityDistributions/blob/master/reviewquestions.tex
+Actioned
 ========================================================================
 H.
 Poisson Approximations
 (Add Text)
+Actioned
 ========================================================================
 I.
 Paired-T-tests
+Actioned
 ========================================================================
+J.
 Error Types
+Actioned
 ========================================================================
 
 
-https://github.com/MathsResource/ProbabilityDistributions/blob/master/000-06-H-GammaParetoDistribution.tex
