@@ -1,0 +1,81 @@
+
+A.
+Normal Approximation of the Binomial Distribution - Worked Example
+28/110
+FIA-ct3-2006-April-Q2
+https://youtu.be/olxga5ArlSs
+ACTIONED
+=================================
+B.
+Joint Distribution of Random Variables  - Health Science Example
+30/108
+FIA-ct3-2011-Sept-Q5
+https://youtu.be/M6iKFS8FaLg
+ACTIONED
+=================================
+C.
+Continuous Random Variables - Conditional Probability Worked Example
+32/106
+https://youtu.be/uaYXtM0lHRY
+FIA-ct101-2002-Sept-Q3
+=================================
+D.
+Mixed Probability Distributions
+36/102
+https://youtu.be/24PPecNK7NI
+MixedProb-ASI-CT3-2010-May-Q6.mp4
+ACTIONED
+=================================
+E.
+Poisson Distribution - Telephone Board Example
+59/79
+https://youtu.be/88xt7Bb5jJc
+Filename
+ASI=CT3-2006-1-May-Q8-Poisson.mp4
+ACTIONED
+==================================
+F.
+Survival Analysis - Kaplan Meier Estimates of the Survival Function
+63/75
+Lectures / Switching Courses
+https://youtu.be/4fOcxafPHow
+==================================
+G.
+ /69
+Negative Binomial Example
+"https://studio.youtube.com/video/P1-FtKFbrtU/edit" >
+Negative Binomial Distribution
+https://youtu.be/P1-FtKFbrtU
+
+NegativeBinomial-CT3-101-Sept-2010-Q3.mp4
+ACTIONED
+==================================
+H.
+Probability - Independent Events (Packs of Cards Example)
+/88
+https://youtu.be/dNkw6VU3ZzU
+Independent Events-Packs-of-Cards-ASI-CT3-2006-May-Q2.mp4
+ACTIONED
+==================================
+I.
+64	
+Confidence Intervals for Poisson Random Variables	
+https://youtu.be/mRQgWDoHCXg
+"https://studio.youtube.com/video/mRQgWDoHCXg/edit" 
+ACTIONED
+==================================
+J.
+52
+Exponential Distribution - Worked Example
+CT3-101-2002-April-Q2	
+https://youtu.be/ivnbqNPv_WQ
+"https://studio.youtube.com/video/ivnbqNPv_WQ/edit" 
+Exponential Distribution - Worked Example
+ACTIONED
+
+==================================
+
+A,B,C,D,E,G,H
+
+DONE=c(110,108,106,69,102,79,88,64,52)
+OUTSTANDING =75 (survival analysis)
