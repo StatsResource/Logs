@@ -44,6 +44,28 @@ Survival Analysis - Kaplan Meier Estimates (Lightbulb Example)
 11:42
 StatsResource.github.io | Survival Analysis | Kaplan Meier Estimates
 CT4-April-2013-Q7-Survival-KaplanMeier.mp4 
+
+
+
+The Shining Light company has developed a new type of light bulb which it recently
+tested. 1,000 bulbs were switched on and observed until they failed, or until 500
+hours had elapsed. For each bulb that failed, the duration in hours until failure was
+noted. Due to an earth tremor after 200 hours, 200 bulbs shattered and had to be
+removed from the test before failure.
+The results showed that \\10 bulbs failed after 50 hours,\\ 20 bulbs failed after 100 hours,\\
+50 bulbs failed after 250 hours, \\300 bulbs failed after 400 hours \\ 50 bulbs failed
+after 450 hours.
+
+\begin{enumerate}[(a)]
+\item Calculate the Kaplan-Meier estimate of the survival function, $S(t)$, for the light
+bulbs in the test.
+\item  Sketch the Kaplan-Meier estimate calculated in part (a).
+\item Estimate the probability that a bulb will not have failed after each of the
+following durations: 300 hours, 400 hours and 600 hours. If it is not possible
+to obtain an estimate for any of the durations without additional assumptions,
+explain why.
+\end{enumerate}
+
 ========================================
 H.
 Survival Analysis - Nelson Aalen Estimates
@@ -58,6 +80,42 @@ Survival Analysis - Kaplan Meier Estimates
 StatsResource.github.io | Survival Analysis | Kaplan Meier Estimates 
 
 Survival Analysis Kaplan Meier Insects CT4 2005 April B5.mp4
+
+
+
+
+\noindent A study of the mortality of 12 laboratory-bred insects was undertaken. The insects
+were observed from birth until either they died or the period of study ended, at which
+point those insects still alive were treated as censored.\\
+\\
+\noindent The following table shows the Kaplan-Meier estimate of the survival function, based
+on data from the 12 insects.
+
+\begin{center}
+\begin{tabular}{|c|c|} \hline
+\phantom{spa} t (weeks) \phantom{spa}  & \phantom{spa} S(t) \phantom{spa} \\ \hline \hline
+$0 \leq t < 1$ & 1.0000 \\ \hline
+$1 \leq  t < 3$ & 0.9167\\ \hline
+$3 \leq t < 6$ & 0.7130\\ \hline
+$ t \geq  6$ & 0.4278\\ \hline
+\end{tabular}
+\end{center}
+
+\begin{enumerate}[(a)]
+    \item  Calculate the number of insects dying at durations 3 and 6 weeks. 
+    \item Calculate the number of insects whose history was censored.
+
+\end{enumerate}
+
+\begin{framed}
+\noindent The estimator of the survival function ${\displaystyle S(t)}$ (the probability that life is longer than ${\displaystyle t}$) is given by:
+
+\[{\displaystyle {\widehat {S}}(t)=\prod \limits _{i:\ t_{i}\leq t}\left(1-{\frac {d_{i}}{n_{i}}}\right) =\prod \limits _{i:\ t_{i}\leq t}\left(1-\lambda_i \right),} \]
+
+\noindent with ${\displaystyle t_{i}}$ a time when at least one event happened, $d_i$ the number of events (e.g., deaths) that happened at time $ {\displaystyle t_{i}}$, and 
+${\displaystyle n_{i}}$ the individuals known to have survived (have not yet had an event or been censored) up to time ${\displaystyle t_{i}}$. 
+\end{framed}
+
 
 ===========================================================
 J.
