@@ -2,17 +2,18 @@ A.
 Video 61
 Compound Poisson Distribution - Worked Example with Exponential Random Variable
 7:13
-
 https://youtu.be/WKiw2X1qh4I
-Filename
 Compound-POisson-Distribution-CT3-101-2007-April-Q5.mp4
-
+------------
+ACTIONED
 =====================================
 B.
 Video 17.
 https://youtu.be/Bq-ivONs-30
 Normal Distribution - Worked Example
 Normal-Distribution-RSS-HC1-2006-Q4.mp4
+------------
+CHECK RSS EXAM PAPERS
 ====================================================
 C. 
 Video 16.
@@ -20,15 +21,17 @@ Normal Distribution - Combination of Normal Random Variables (Journey Times)
 https://youtu.be/jGzLUVFUgQ4
 
 Normal_Distribution_journeytimes_RSS_HC1_2006_Q1.mp4
+------------
+ACTIONED
 =================================================
 D.
 Video 18.
 Continuous Random Variable - Worked Example
 https://studio.youtube.com/video/rodfSPYXdh8/edit
-
 https://youtu.be/rodfSPYXdh8
-
 ContinuousRandomVariable_WorkedExample-RSS-2003-HC1-Q4.mp4
+------------
+ACTIONED
 ===================================================
 E.
 Video 6.
@@ -36,6 +39,8 @@ Poisson Distribution - Normal Approximation
 FAI-CT3
 https://youtu.be/sFGd4LSGQ0U
 Write Out Question and Put into Text
+------------
+OUTSTANDING
 ===================================================
 F.
 Video 51.
@@ -43,6 +48,8 @@ Cumulant Generating Functions
 https://studio.youtube.com/video/_x3tv15tHgE/edit
 https://youtu.be/_x3tv15tHgE
 CumulantGeneratingFunctions-CT3-101-2004-April-Q3.mp4
+------------
+ACTIONED
 ====================================================
 G.
 Video 54.
@@ -50,13 +57,15 @@ Geometric Distribution with Chi Square Test for Goodness of Fit
 https://studio.youtube.com/video/pIAZmkRvKPo/edit
 https://youtu.be/pIAZmkRvKPo
 Geometric Distribution with Chi Square Test for Goodness of Fit.mp4
-Check RSS
+------------
+OUTSTANDING: Check RSS Papers
 ====================================================
 H.
 Video: 80
 Binomial Distribution - Normal Approximation of a Binomial Random Variable
 https://studio.youtube.com/video/2Fhw7W44frY/edit
-WRITE OUT TEXT
+------------
+OUTSTANDING: WRITE OUT TEXT
 ====================================================
 I.
 Video 82
@@ -64,12 +73,14 @@ Random Number Simulation -  Simulation of Binomial Random Variable
 https://studio.youtube.com/video/Aqz3hY5ssPM/edit
 https://youtu.be/Aqz3hY5ssPM
 ASI-CT3-2009-May-Q4-SimulationRandomNumbers.mp4
-
+------------
+ACTIONED
 ====================================================
 J.
 Video 63
 Confidence Intervals for Poisson Random Variables
 https://studio.youtube.com/video/5r8JMrKSFrU/edit
 Confidence Intervals of Poisson Random Variables 
-
 (Ref: CT3 101 2007 April Q3 )
+------------
+ACTIONED
