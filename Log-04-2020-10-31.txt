@@ -11,7 +11,7 @@ B. Game Theory  & Decision Theory
  - add subsections
  - Bayesian Decision Theory (remove from index)
 
-
+ACTIONED
 =======================================
 
 C.  Inference Procedures
@@ -36,12 +36,20 @@ E. Experimental Design
 ========================================
 F.
 Survival Models - Cox Regression Model
-12:47
 CT4-2015-April-Q7CoxRegression.mp4 
+Added as Video 139
+
+https://youtu.be/vVJC5V40oh4 
+12:47 Run length
+MR and SR
 ========================================
 G.
-Survival Analysis - Kaplan Meier Estimates (Lightbulb Example)
-11:42
+Survival Analysis :  Kaplan Meier Estimates (Lightbulb Example)
+https://youtu.be/hIXJJh07ZkQ 
+11:42 Eun Length
+MR and SR
+SR Video 140
+
 StatsResource.github.io | Survival Analysis | Kaplan Meier Estimates
 CT4-April-2013-Q7-Survival-KaplanMeier.mp4 
 
@@ -56,11 +64,10 @@ The results showed that \\10 bulbs failed after 50 hours,\\ 20 bulbs failed afte
 50 bulbs failed after 250 hours, \\300 bulbs failed after 400 hours \\ 50 bulbs failed
 after 450 hours.
 
-\begin{enumerate}[(a)]
-\item Calculate the Kaplan-Meier estimate of the survival function, $S(t)$, for the light
+q. Calculate the Kaplan-Meier estimate of the survival function, $S(t)$, for the light
 bulbs in the test.
-\item  Sketch the Kaplan-Meier estimate calculated in part (a).
-\item Estimate the probability that a bulb will not have failed after each of the
+b.  Sketch the Kaplan-Meier estimate calculated in part (a).
+c. Estimate the probability that a bulb will not have failed after each of the
 following durations: 300 hours, 400 hours and 600 hours. If it is not possible
 to obtain an estimate for any of the durations without additional assumptions,
 explain why.
