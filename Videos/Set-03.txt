@@ -1,0 +1,51 @@
+A.
+Joint Random Variables
+4 Videos
+
+https://github.com/DragonflyStats/MR_TutorialSheets/blob/master/MR_Distributions/Discrete%20Random%20Variables%20-%20Tutorial%20Sheet%20C.tex
+
+========================================================================
+B.
+Single Sample Propoprtions Tests
+ - Swedish Pregnancies
+ 
+https://github.com/DragonflyStats/MR_TutorialSheets/blob/master/MR_Statistics/Inference/Hypothesis%20Testing%20-%20Tutorial%20Sheet%20B.tex
+
+========================================================================
+
+C.
+
+Poisson Random Variables
+
+https://github.com/MathsResource/ProbabilityDistributions/tree/master/Poisson
+
+=========================================================================
+
+D.
+Normal Distribution
+
+https://github.com/MathsResource/ProbabilityDistributions/blob/master/Normal/AthleteJumps.tex
+
+=========================================================================
+E.
+Geometric Distribution
+https://github.com/MathsResource/ProbSlides/blob/master/Geometric/000-05-K-Geometric.tex
+=========================================================================
+F.
+Hypergeometric Distribution
+https://github.com/MathsResource/ProbSlides/blob/master/Geometric/000-05-K-Geometric.tex
+========================================================================
+G.
+Unifrom Distribution
+https://github.com/MathsResource/ProbSlides/blob/master/Uniform/Uniform_1.tex
+========================================================================
+H.
+https://github.com/MathsResource/ProbSlides/blob/master/Poisson/PoissonApproximation_2.pdf
+========================================================================
+I
+Binomial Distribution Using Tables
+https://github.com/MathsResource/ProbSlides/blob/master/Binomial/Binomial_7.tex
+https://github.com/MathsResource/ProbSlides/blob/master/Binomial/Binomial_3.tex
+https://github.com/MathsResource/ProbSlides/blob/master/BinomialTables.pdf
+
+==========================================================================
