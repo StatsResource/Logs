@@ -14,18 +14,25 @@ https://github.com/MathsResource/ProbabilityDistributions/blob/master/Normal-Ara
 ========================================================================
 B. Exponential Random Variables
 
-3 Videos
+1. machine repair department/ printer
+2. bank (rate parameter)
+3. filling station
+4. laptop
+5. fastfood outlet
+6. Bank Queue
+7. PC monitor
+8.
+9.
+10.
 
-
-https://github.com/MathsResource/ProbabilityDistributions/blob/master/ExponentialDistribution.tex
-
-
+--------------------
+X - https://github.com/MathsResource/ProbabilityDistributions/blob/master/ExponentialDistribution.tex
 Review Questions
+X - https://github.com/MathsResource/ProbabilityDistributions/blob/master/reviewquestions.tex
+X - https://github.com/DragonflyStats/MathsResource/blob/master/tutorialsheets/probability/exponentialdistribution.tex
+X - https://github.com/DragonflyStats/Tutorials/blob/master/00_Tickets/MR_041_ContinuousProbDistributions.tex
 
 
-https://github.com/MathsResource/ProbabilityDistributions/blob/master/reviewquestions.tex
-https://github.com/DragonflyStats/MathsResource/blob/master/tutorialsheets/probability/exponentialdistribution.tex
-https://github.com/DragonflyStats/Tutorials/blob/master/00_Tickets/MR_041_ContinuousProbDistributions.tex
 ======================================================================== 
  
 C.
