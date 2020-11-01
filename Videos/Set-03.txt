@@ -2,15 +2,17 @@ A.
 Joint Random Variables
 4 Videos
 
-https://github.com/DragonflyStats/MR_TutorialSheets/blob/master/MR_Distributions/Discrete%20Random%20Variables%20-%20Tutorial%20Sheet%20C.tex
-
+X - https://github.com/DragonflyStats/MR_TutorialSheets/blob/master/MR_Distributions/Discrete%20Random%20Variables%20-%20Tutorial%20Sheet%20C.tex
+-----------------
+Moved to USB Stick
 ========================================================================
 B.
 Single Sample Propoprtions Tests
  - Swedish Pregnancies
  
 https://github.com/DragonflyStats/MR_TutorialSheets/blob/master/MR_Statistics/Inference/Hypothesis%20Testing%20-%20Tutorial%20Sheet%20B.tex
-
+-----------------
+Moved to USB Stick
 ========================================================================
 
 C.
@@ -34,13 +36,23 @@ https://github.com/MathsResource/ProbSlides/blob/master/Geometric/000-05-K-Geome
 F.
 Hypergeometric Distribution
 https://github.com/MathsResource/ProbSlides/blob/master/Geometric/000-05-K-Geometric.tex
+-------------------------
+Moved to USB stick: Set-3-F
+
 ========================================================================
 G.
 Unifrom Distribution
-https://github.com/MathsResource/ProbSlides/blob/master/Uniform/Uniform_1.tex
+X - https://github.com/MathsResource/ProbSlides/blob/master/Uniform/Uniform_1.tex
+-------------------------
+Contents on USB Stick
+
 ========================================================================
 H.
-https://github.com/MathsResource/ProbSlides/blob/master/Poisson/PoissonApproximation_2.pdf
+Poisson Approximation of the Binomial
+X - https://github.com/MathsResource/ProbSlides/blob/master/Poisson/PoissonApproximation_2.pdf
+-------------------------
+Contents on USB Stick
+
 ========================================================================
 I
 Binomial Distribution Using Tables
@@ -49,3 +61,11 @@ https://github.com/MathsResource/ProbSlides/blob/master/Binomial/Binomial_3.tex
 https://github.com/MathsResource/ProbSlides/blob/master/BinomialTables.pdf
 
 ==========================================================================
+J.
+
+Dixon Q-Text
+X - https://github.com/MathsResource/InferenceProcedures/blob/master/DixonTest/DixonTest.tex
+-------------------------
+Contents on USB Stick
+
+===========================================================================
