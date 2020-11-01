@@ -1,0 +1,55 @@
+A.
+Paired Procedures
+https://github.com/MathsResource/StatsSlides/blob/master/paireddata/paired-t-test_1.tex
+https://github.com/MathsResource/StatsSlides/blob/master/paireddata/paired-t-test_example_comptiatest.tex
+
+================================
+B. 
+Confidence Intervals - Lecture Slides
+
+https://github.com/MathsResource/StatsSlides/blob/master/ConfInts/MA4704%202012%20Lect%206B%20Confidence%20Intervals.tex
+
+==================================
+C.
+Exponential Distribution - Lecture
+
+https://github.com/MathsResource/ProbabilityDistributions/blob/master/ExponentialDistribution.tex
+
+
+===================================
+D.
+F-test
+https://github.com/MathsResource/StatsSlides/blob/master/var_test_2.tex
+
+====================================
+E.
+Inference Procedures
+https://github.com/MathsResource/StatsSlides/blob/master/MA4413%20Set%20G%20(Two%20Sample%20Inference).tex
+https://github.com/DragonflyStats/Tutorials/blob/master/tut_ht_hypotheses_2.tex
+====================================
+F.
+Counting Problems
+https://github.com/DragonflyStats/Tutorials/blob/master/tut_prob_count.tex
+
+=======================================
+G. 
+Probability 
+Independent Events
+https://github.com/DragonflyStats/Tutorials/blob/master/tut_prob_indevents.tex
+
+===========================================
+H.
+Difference In Proportions
+https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_1.tex
+https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_2.tex
+
+=============================================
+I.
+Confidence Intervals - Meas
+https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_5a.tex
+https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_6a.tex
+https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_9b.tex
+=============================================
+J.
+Exponential Distribution
+https://github.com/MathsResource/ProbSlides/blob/master/Exponential/Exponential_Example_2.tex
