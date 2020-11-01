@@ -113,3 +113,5 @@ J.
 Normal Distribution
 
 https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_0.tex
+
+2 Videos
