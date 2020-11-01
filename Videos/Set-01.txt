@@ -1,0 +1,79 @@
+A.
+
+2 Normal Random Variables Videos
+
+1. SR and MR
+2. SR only
+
+See Log 7J for text
+
+https://github.com/DragonflyStats/MathsResource/blob/master/tutorialsheets/probability/normaldistribution-tutorialsheet.tex
+
+https://github.com/MathsResource/ProbabilityDistributions/blob/master/Normal-GestationofHorses.tex
+https://github.com/MathsResource/ProbabilityDistributions/blob/master/Normal-ArabHorses.tex
+========================================================================
+B. Exponential Random Variables
+
+3 Videos
+
+
+https://github.com/MathsResource/ProbabilityDistributions/blob/master/ExponentialDistribution.tex
+
+
+Review Questions
+
+
+https://github.com/MathsResource/ProbabilityDistributions/blob/master/reviewquestions.tex
+https://github.com/DragonflyStats/MathsResource/blob/master/tutorialsheets/probability/exponentialdistribution.tex
+https://github.com/DragonflyStats/Tutorials/blob/master/00_Tickets/MR_041_ContinuousProbDistributions.tex
+======================================================================== 
+ 
+C.
+Poisson 
+
+5 Videos
+
+https://github.com/DragonflyStats/Tutorials/blob/master/tut_dist_discrete
+https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_4f.tex
+https://github.com/DragonflyStats/Tutorials/blob/master/00_Tickets/MR_027_PoissonQuestions.tex
+
+======================================================================== 
+ 
+D.
+Discrete RVs
+https://github.com/DragonflyStats/Tutorials/blob/master/tut_prob_drvs.tex
+
+
+======================================================================== 
+E.
+Binomial Random Variables
+https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_4b.tex
+
+======================================================================== 
+F.
+Probability
+https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_3p.tex
+
+========================================================================
+G.
+
+Difference In Means
+https://github.com/MathsResource/StatsSlides/blob/master/difference_in_means_2.tex
+
+========================================================================
+H.
+Regression Equation
+
+https://github.com/MathsResource/StatsSlides/blob/master/Regression_Equation_Example.tex.tex
+========================================================================
+I.
+
+Proportions
+https://github.com/MathsResource/StatsSlides/blob/master/Proportions_single_sample.tex
+
+========================================================================
+J.
+Difference In Proportions
+https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_1.tex
+https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_2.tex
+========================================================================
