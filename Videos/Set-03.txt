@@ -67,5 +67,7 @@ Dixon Q-Text
 X - https://github.com/MathsResource/InferenceProcedures/blob/master/DixonTest/DixonTest.tex
 -------------------------
 Contents on USB Stick
+Video Made -02/Nov/2020
+Archived at SR/Inference/TestingAssumtions
 
 ===========================================================================
