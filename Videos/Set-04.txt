@@ -7,28 +7,44 @@ https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_b_2
 Archive at:
 SR/Probability/Conditional Probability/WorkedExamples
 ==========================================================================================
-
-
 B.
+Conditional Probability
 https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_c_3.tex
-
+------------
+ConditionalProbability-MinimumValue-WorkedExample
+Video 144
+Run Time: 4:37 Mins
+https://youtu.be/HwCqjf6bf2k
+-----------------------
+Archive at:
+SR/Probability/Conditional Probability/WorkedExamples
 ==========================================================================================
-
 C.
-Hypothesis Test for the Difference in Means
+Conditional Probability - Faulty Resistors - DeltaTech & Echelon
 https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_a_6.tex
-
-
+---------------------------------
+Video 145
+https://youtu.be/Ayc3_ozQI4Y
+Conditional Probability: Worked Example (Faulty Resistors)
+SR/Probability/ConditionalProbability/WorkedExamples-FaultyResistors.tex
 ==========================================================================================
 D.
 Hypothesis Test for the Difference in Means
 https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_b_1.tex
-
+-------------------------------
+Video 147
+HypothesisTestForDifferenceInMeans-SmallSamples-WorkedExample
+https://youtu.be/2pLVPF-zkJc
 ==========================================================================================
 E.
 Hypothesis Testing
 https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_ht_1.tex
-
+-----------------------------------------------------
+Video 146
+Recording Date : 02/November/2020
+Archived at: Inference/HypothesisTestingForMeans/WorkedExamples/
+StatsResource.github.io | Inference Procedures | Hypothesis Testing | Tests of a Single Sample Mean | Worked Examples
+https://youtu.be/8rJtGtSlrt0
 ==========================================================================================
 F.
 Continuous Random Variable
