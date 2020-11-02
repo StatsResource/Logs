@@ -1,8 +1,11 @@
 
 A.
+Probability - Conditional Probability
 
 https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_b_2.tex
-
+-----------------------
+Archive at:
+SR/Probability/Conditional Probability/WorkedExamples
 ==========================================================================================
 
 
@@ -12,11 +15,13 @@ https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_c_3
 ==========================================================================================
 
 C.
+Hypothesis Test for the Difference in Means
 https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_a_6.tex
 
 
 ==========================================================================================
 D.
+Hypothesis Test for the Difference in Means
 https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_b_1.tex
 
 ==========================================================================================
