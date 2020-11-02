@@ -1,0 +1,25 @@
+
+A.
+
+https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_b_2.tex
+
+==========================================================================================
+
+
+B.
+https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_c_3.tex
+
+==========================================================================================
+
+C.
+https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_a_6.tex
+
+
+==========================================================================================
+D.
+https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_b_1.tex
+
+==========================================================================================
+E.
+Hypothesis Testing
+https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_ht_1.tex
