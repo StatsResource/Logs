@@ -22,12 +22,19 @@ Poisson Random Variables
 https://github.com/MathsResource/ProbabilityDistributions/tree/master/Poisson
 
 =========================================================================
-
 D.
 Normal Distribution
-
-https://github.com/MathsResource/ProbabilityDistributions/blob/master/Normal/AthleteJumps.tex
-
+Normal Distribution Worked Example (The Long Jumper) 
+X- https://github.com/MathsResource/ProbabilityDistributions/blob/master/Normal/AthleteJumps.tex
+----------------------------------------
+Video 143
+https://youtu.be/cxEIEYs9xsk
+NormalDistribution-LongJumper-WorkedExample.mp4
+----------------------------------------
+Archived at:
+SR/ProbabilityDistributions/NormalDistribution/WorkedExample-LongJumper.tex
+----------------------------------------
+Outstanding: Add to Website
 =========================================================================
 E.
 Geometric Distribution
@@ -66,8 +73,14 @@ J.
 Dixon Q-Text
 X - https://github.com/MathsResource/InferenceProcedures/blob/master/DixonTest/DixonTest.tex
 -------------------------
+Dixon Q-Test For Outliers (Introduction to Hypothesis Testing)
+Video 142
+https://youtu.be/C0KltVEk6c8
+Archived at: Inference/TestingModelAssumptions/DixonQTest.tex
+--------------------------
 Contents on USB Stick
 Video Made -02/Nov/2020
 Archived at SR/Inference/TestingAssumtions
-
+----------------------------------------
+Outstanding: Add to Website
 ===========================================================================
