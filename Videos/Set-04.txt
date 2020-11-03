@@ -9,7 +9,7 @@ SR/Probability/Conditional Probability/WorkedExamples
 ==========================================================================================
 B.
 Conditional Probability
-https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_c_3.tex
+X - https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_c_3.tex
 ------------
 ConditionalProbability-MinimumValue-WorkedExample
 Video 144
@@ -21,7 +21,7 @@ SR/Probability/Conditional Probability/WorkedExamples
 ==========================================================================================
 C.
 Conditional Probability - Faulty Resistors - DeltaTech & Echelon
-https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_a_6.tex
+X - https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_a_6.tex
 ---------------------------------
 Video 145
 https://youtu.be/Ayc3_ozQI4Y
@@ -30,7 +30,7 @@ SR/Probability/ConditionalProbability/WorkedExamples-FaultyResistors.tex
 ==========================================================================================
 D.
 Hypothesis Test for the Difference in Means
-https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_b_1.tex
+X - https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_b_1.tex
 -------------------------------
 Video 147
 HypothesisTestForDifferenceInMeans-SmallSamples-WorkedExample
@@ -38,7 +38,7 @@ https://youtu.be/2pLVPF-zkJc
 ==========================================================================================
 E.
 Hypothesis Testing
-https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_ht_1.tex
+X- https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_ht_1.tex
 -----------------------------------------------------
 Video 146
 Recording Date : 02/November/2020
@@ -49,3 +49,23 @@ https://youtu.be/8rJtGtSlrt0
 F.
 Continuous Random Variable
 https://github.com/DragonflyStats/UL_teaching_archive/blob/master/MA4603-2017/Probability/ProbFunc2.tex
+
+===========================================================================================
+G.
+Discrete Random Variables
+https://github.com/DragonflyStats/Tutorials/edit/master/Solutions/Solution_3_d_1.tex
+
+
+===========================================================================================
+H.
+Poisson RVs
+https://github.com/DragonflyStats/Tutorials/blob/master/00_Tickets/MR_027_PoissonQuestions.tex
+
+
+===========================================================================================
+I.
+https://github.com/DragonflyStats/Tutorials/blob/master/00-MA4603-2017-Tutorial%2012%20-%20SpecialTopics.tex
+
+===========================================================================================
+J.
+https://github.com/DragonflyStats/Tutorials/blob/master/EXAMS/MA4413%20Sample%20Q5%20Variant%201.tex
