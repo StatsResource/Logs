@@ -68,4 +68,19 @@ https://github.com/DragonflyStats/Tutorials/blob/master/00-MA4603-2017-Tutorial%
 
 ===========================================================================================
 J.
-https://github.com/DragonflyStats/Tutorials/blob/master/EXAMS/MA4413%20Sample%20Q5%20Variant%201.tex
+(Videos 148-151)
+Exponential Distribution Worked Example 4
+StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples
+https://youtu.be/jnJyjyYi-mY
+
+Exponential Distribution Worked Example 5
+StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples
+https://youtu.be/ZCTmBGGdYLM
+
+Exponential Distribution Worked Example 6
+StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples
+https://youtu.be/wWq_VoxBqwk
+
+Exponential Distribution Worked Example 7
+StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples
+https://youtu.be/PLpaMVcuCz0
