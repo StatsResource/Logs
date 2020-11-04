@@ -65,7 +65,7 @@ https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_3p.tex
 G.
 
 Difference In Means
-https://github.com/MathsResource/StatsSlides/blob/master/difference_in_means_2.tex
+X - https://github.com/MathsResource/StatsSlides/blob/master/difference_in_means_2.tex
 
 ========================================================================
 H.
@@ -76,8 +76,10 @@ https://github.com/MathsResource/StatsSlides/blob/master/Regression_Equation_Exa
 I.
 
 Proportions
-https://github.com/MathsResource/StatsSlides/blob/master/Proportions_single_sample.tex
+X - https://github.com/MathsResource/StatsSlides/blob/master/Proportions_single_sample.tex
 
+Video Made 04/Nov/2020
+Video 154
 ========================================================================
 J.
 Difference In Proportions
