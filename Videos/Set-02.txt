@@ -35,21 +35,29 @@ https://github.com/DragonflyStats/Tutorials/blob/master/tut_prob_count.tex
 G. 
 Probability 
 Independent Events
-https://github.com/DragonflyStats/Tutorials/blob/master/tut_prob_indevents.tex
-
+X- https://github.com/DragonflyStats/Tutorials/blob/master/tut_prob_indevents.tex
+Content moved to USB stick
 ===========================================
 H.
 Difference In Proportions
-https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_1.tex
-https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_2.tex
+X- https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_1.tex
+X- https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_2.tex
 
+Content Moved to USB
 =============================================
 I.
-Confidence Intervals - Meas
+Confidence Intervals - Means
 https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_5a.tex
 https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_6a.tex
 https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_9b.tex
+
+- Get Student t-tables ready
 =============================================
 J.
 Exponential Distribution
 https://github.com/MathsResource/ProbSlides/blob/master/Exponential/Exponential_Example_2.tex
+Duplicate Content
+No Video Made
+--------------
+Outstanding: Check and Delete Remaining text
+=============================================
