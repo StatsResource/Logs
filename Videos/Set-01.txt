@@ -78,8 +78,10 @@ I.
 Proportions
 X - https://github.com/MathsResource/StatsSlides/blob/master/Proportions_single_sample.tex
 
+Standard Errors for Inference Procedures for Single Sample Proportions
 Video Made 04/Nov/2020
-Video 154
+Video 153
+https://studio.youtube.com/video/HsGYqjlQJhM/edit/basic
 ========================================================================
 J.
 Difference In Proportions
