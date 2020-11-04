@@ -53,18 +53,21 @@ https://github.com/DragonflyStats/UL_teaching_archive/blob/master/MA4603-2017/Pr
 ===========================================================================================
 G.
 Discrete Random Variables
-https://github.com/DragonflyStats/Tutorials/edit/master/Solutions/Solution_3_d_1.tex
-
+X-https://github.com/DragonflyStats/Tutorials/edit/master/Solutions/Solution_3_d_1.tex
+Content moved to USB
 
 ===========================================================================================
 H.
 Poisson RVs
-https://github.com/DragonflyStats/Tutorials/blob/master/00_Tickets/MR_027_PoissonQuestions.tex
+X-https://github.com/DragonflyStats/Tutorials/blob/master/00_Tickets/MR_027_PoissonQuestions.tex
+3 Videos
+Content moved to USB
 
 
 ===========================================================================================
 I.
 https://github.com/DragonflyStats/Tutorials/blob/master/00-MA4603-2017-Tutorial%2012%20-%20SpecialTopics.tex
+Content moved to USB (remaining content)
 
 ===========================================================================================
 J.
