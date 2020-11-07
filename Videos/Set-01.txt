@@ -11,29 +11,20 @@ https://github.com/DragonflyStats/MathsResource/blob/master/tutorialsheets/proba
 
 https://github.com/MathsResource/ProbabilityDistributions/blob/master/Normal-GestationofHorses.tex
 https://github.com/MathsResource/ProbabilityDistributions/blob/master/Normal-ArabHorses.tex
-========================================================================
+===============================================================================================
+===============================================================================================
 B. Exponential Random Variables
-
-1. machine repair department/ printer
-2. bank (rate parameter)
-3. filling station
-4. laptop
-5. fastfood outlet
-6. Bank Queue
-7. PC monitor
-8.
-9.
-10.
 
 --------------------
 X - https://github.com/MathsResource/ProbabilityDistributions/blob/master/ExponentialDistribution.tex
-Review Questions
 X - https://github.com/MathsResource/ProbabilityDistributions/blob/master/reviewquestions.tex
 X - https://github.com/DragonflyStats/MathsResource/blob/master/tutorialsheets/probability/exponentialdistribution.tex
 X - https://github.com/DragonflyStats/Tutorials/blob/master/00_Tickets/MR_041_ContinuousProbDistributions.tex
 
-
-======================================================================== 
+--------------------
+2020-10-05: 5 from 10 worked examples are published on SR.
+===============================================================================================
+===============================================================================================
  
 C.
 Poisson 
@@ -44,35 +35,40 @@ https://github.com/DragonflyStats/Tutorials/blob/master/tut_dist_discrete
 https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_4f.tex
 https://github.com/DragonflyStats/Tutorials/blob/master/00_Tickets/MR_027_PoissonQuestions.tex
 
-======================================================================== 
+===============================================================================================
+===============================================================================================
  
 D.
 Discrete RVs
 https://github.com/DragonflyStats/Tutorials/blob/master/tut_prob_drvs.tex
 
-
-======================================================================== 
+===============================================================================================
+===============================================================================================
 E.
 Binomial Random Variables
 https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_4b.tex
 
-======================================================================== 
+===============================================================================================
+===============================================================================================
 F.
 Probability
 https://github.com/DragonflyStats/Tutorials/blob/master/Tutorial_3p.tex
-
-========================================================================
+===============================================================================================
+===============================================================================================
 G.
 
 Difference In Means
 X - https://github.com/MathsResource/StatsSlides/blob/master/difference_in_means_2.tex
 
-========================================================================
+===============================================================================================
+===============================================================================================
 H.
 Regression Equation
 
 https://github.com/MathsResource/StatsSlides/blob/master/Regression_Equation_Example.tex.tex
-========================================================================
+
+===============================================================================================
+===============================================================================================
 I.
 
 Proportions
@@ -82,9 +78,15 @@ Standard Errors for Inference Procedures for Single Sample Proportions
 Video Made 04/Nov/2020
 Video 153
 https://studio.youtube.com/video/HsGYqjlQJhM/edit/basic
-========================================================================
+----------------------------------
+Outstanding - Add Text to SR site
+===============================================================================================
+===============================================================================================
 J.
 Difference In Proportions
-https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_1.tex
-https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_2.tex
-========================================================================
+X - https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_1.tex
+X - https://github.com/MathsResource/StatsSlides/blob/master/difference_in_proportions_2.tex
+----------------------------------
+Outstanding - Add Text to SR site
+===============================================================================================
+===============================================================================================
