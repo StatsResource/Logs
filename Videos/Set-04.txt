@@ -6,7 +6,8 @@ https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_b_2
 -----------------------
 Archive at:
 SR/Probability/Conditional Probability/WorkedExamples
-==========================================================================================
+======================================================================================================================
+======================================================================================================================
 B.
 Conditional Probability
 X - https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_c_3.tex
@@ -18,7 +19,8 @@ https://youtu.be/HwCqjf6bf2k
 -----------------------
 Archive at:
 SR/Probability/Conditional Probability/WorkedExamples
-==========================================================================================
+======================================================================================================================
+======================================================================================================================
 C.
 Conditional Probability - Faulty Resistors - DeltaTech & Echelon
 X - https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_3_a_6.tex
@@ -27,7 +29,8 @@ Video 145
 https://youtu.be/Ayc3_ozQI4Y
 Conditional Probability: Worked Example (Faulty Resistors)
 SR/Probability/ConditionalProbability/WorkedExamples-FaultyResistors.tex
-==========================================================================================
+======================================================================================================================
+======================================================================================================================
 D.
 Hypothesis Test for the Difference in Means
 X - https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_b_1.tex
@@ -35,7 +38,8 @@ X - https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7
 Video 147
 HypothesisTestForDifferenceInMeans-SmallSamples-WorkedExample
 https://youtu.be/2pLVPF-zkJc
-==========================================================================================
+======================================================================================================================
+======================================================================================================================
 E.
 Hypothesis Testing
 X- https://github.com/DragonflyStats/Tutorials/blob/master/Solutions/Solution_7_ht_1.tex
@@ -45,31 +49,57 @@ Recording Date : 02/November/2020
 Archived at: Inference/HypothesisTestingForMeans/WorkedExamples/
 StatsResource.github.io | Inference Procedures | Hypothesis Testing | Tests of a Single Sample Mean | Worked Examples
 https://youtu.be/8rJtGtSlrt0
-==========================================================================================
+-----------------------------------------------------
+Outstanding - Put Question Text on SR
+======================================================================================================================
+======================================================================================================================
 F.
 Continuous Random Variable
 https://github.com/DragonflyStats/UL_teaching_archive/blob/master/MA4603-2017/Probability/ProbFunc2.tex
 
-===========================================================================================
+======================================================================================================================
+======================================================================================================================
 G.
 Discrete Random Variables
 X-https://github.com/DragonflyStats/Tutorials/edit/master/Solutions/Solution_3_d_1.tex
 Content moved to USB
 
-===========================================================================================
+======================================================================================================================
+======================================================================================================================
 H.
 Poisson RVs
 X-https://github.com/DragonflyStats/Tutorials/blob/master/00_Tickets/MR_027_PoissonQuestions.tex
 3 Videos
 Content moved to USB
-
-
-===========================================================================================
+Text archived at:  SR
+---------------------------------------------
+Video Made:
+Video Number:
+Run Length:
+---------------------------------------------
+Video Made:
+Video Number:
+Run Length:
+---------------------------------------------
+Video Made:
+Video Number:
+Run Length:
+---------------------------------------------
+Outstanding - Put Question Text on SR
+======================================================================================================================
+======================================================================================================================
 I.
+Accuracy Precision and Recall
 https://github.com/DragonflyStats/Tutorials/blob/master/00-MA4603-2017-Tutorial%2012%20-%20SpecialTopics.tex
 Content moved to USB (remaining content)
-
-===========================================================================================
+---------------------------------------------
+Video Made:2020-11-07
+Video Number:
+Run Length:
+---------------------------------------------
+Outstanding - Put Question Text on SR
+======================================================================================================================
+======================================================================================================================
 J.
 ACTIONED
 Put Text in Website
@@ -94,3 +124,7 @@ https://youtu.be/PLpaMVcuCz0
 Exponential Distribution Worked Example 10
 StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples
 https://youtu.be/jnJyjyYi-mY
+---------------------------------------------
+Outstanding - Put Question Text on SR
+======================================================================================================================
+======================================================================================================================
