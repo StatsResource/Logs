@@ -45,7 +45,14 @@ Video Number:
 Date: 6th November 2020
 Archived at: SRs/Inference Procedures/Differences In Means/Worked Examples
 ----------------------------
+Difference In Means - Hypothesis Testing Worked Example 2
+StatsResource.github.io | Inference Procedures | Difference in Means | Hypothesis Testing
 
+
+https://youtu.be/ONe8OtDBJgM
+Run Time: 11:05
+Difference-in-means-2.mp4
+Video Number: 161
  
 Difference In Means - Worked Example
 Run Time:
@@ -58,7 +65,14 @@ Run Time:
 Video Number:
 Date: 7th November 2020
 Archived at: SRs/Inference Procedures/Differences In Means/Worked Examples
+Difference In Means - Hypothesis Testing Worked Example 3
+StatsResource.github.io | Inference Procedures | Difference in Means | Hypothesis Testing
 
+https://youtu.be/OcPywFlqIkQ
+https://studio.youtube.com/video/Be3bxfSwZ-Y/edit
+Run Time: 9:02
+Difference-in-means-3.mp4
+Video Number: 162
 ----------------------------
 Difference In Means - Worked Example
 Run Time:
@@ -66,6 +80,15 @@ Video Number:
 Date: 7th November 2020
 Archived at: SRs/Inference Procedures/Differences In Means/Worked Examples
 
+
+Difference In Means - Hypothesis Testing Worked Example 4
+StatsResource.github.io | Inference Procedures | Difference in Means | Hypothesis Testing
+
+
+Run Time: 8:40
+https://youtu.be/Be3bxfSwZ-Y
+Filename
+Diff-Means-4.mp4
 ----------------------------
 
 Outstanding : Add Question Text to SR Website
