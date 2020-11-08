@@ -93,9 +93,11 @@ Accuracy Precision and Recall
 https://github.com/DragonflyStats/Tutorials/blob/master/00-MA4603-2017-Tutorial%2012%20-%20SpecialTopics.tex
 Content moved to USB (remaining content)
 ---------------------------------------------
+https://youtu.be/ET5d-DsEEn0
 Video Made:2020-11-07
 Video Number:
 Run Length:
+Filename: AccuracyPrecisionRecallFMeasure.mp4
 ---------------------------------------------
 Outstanding - Put Question Text on SR
 ======================================================================================================================
