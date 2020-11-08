@@ -72,3 +72,20 @@ Outstanding : Add Question Text to SR Website
 
 ====================================================================
 ====================================================================
+C.
+Information Theory - Entropy
+
+X -  https://github.com/DragonflyStats/Tutorials/edit/master/02_Ready/MR_013_Information_Theory.tex
+Moved to USB
+--------------------------------------------------------------------
+
+
+====================================================================
+====================================================================
+D.
+Information Theory - Huffman Coding
+
+X -  https://github.com/DragonflyStats/Tutorials/edit/master/02_Ready/MR_013_Information_Theory.tex
+Moved to USB
+--------------------------------------------------------------------
+
