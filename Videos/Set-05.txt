@@ -92,10 +92,20 @@ Diff-Means-4.mp4
 ----------------------------
 
 Outstanding : Add Question Text to SR Website
-
 ====================================================================
 ====================================================================
 C.
+
+
+====================================================================
+====================================================================
+D.
+
+
+
+====================================================================
+====================================================================
+E.
 Information Theory - Entropy
 
 X -  https://github.com/DragonflyStats/Tutorials/edit/master/02_Ready/MR_013_Information_Theory.tex
@@ -105,10 +115,22 @@ Moved to USB
 
 ====================================================================
 ====================================================================
-D.
+F.
 Information Theory - Huffman Coding
 
 X -  https://github.com/DragonflyStats/Tutorials/edit/master/02_Ready/MR_013_Information_Theory.tex
 Moved to USB
 --------------------------------------------------------------------
+
+====================================================================
+====================================================================
+G
+Entropy Calculations
+StatsResource.github.io | Information Theory | Entropy
+Entropy Calculations  In Information Theory (Maximum Entropy)
+Video Link: https://youtu.be/guD3C0r7G2w
+Run Time : 9:06
+SR: InformationTheory/Entropy Calculations.tex
+
+
 
