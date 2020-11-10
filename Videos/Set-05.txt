@@ -136,19 +136,23 @@ SR: InformationTheory/Entropy Calculations.tex
 ====================================================================
 
 H.
+
 Confidence Intervals for Proportions - Worked Example 1
 StatsResource.github.io | Inference Procedures | Confidence Intervals for Proportions - Worked Examples
 Confint_C_FemalePolicyHolders.mp4
+Video 166
 Run Time :5:00
 https://youtu.be/YI1TkMJVd8U
 ------------------------------------------------------
 Confidence Intervals for Proportions - Worked Example 2
 Confidence Interval For Proportions - Worked Example B - Household Damage.mp4
+Video 167
 Run Time :5:54
 https://youtu.be/Zl9vr3_XH0k
 ------------------------------------------------------
 Confidence Intervals for Proportions - Worked Example 2
 Confidence Interval For Proportions - Worked Example B - Household Damage.mp4
+Video 168
 https://youtu.be/2xjUo5JkMHE
 Confint_A_mailorderdelivery.mp4
 Run Time :6:37
@@ -159,3 +163,21 @@ Run Time :4:53
 ------------------------------------------------------
 ConfInt_D_Govt_policy.mp4
 Run Time: 7:37
+
+====================================================================
+====================================================================
+
+I
+Assored Transfers from MR to SR
+-------------------------------------------
+1. Video 170
+The Pareto Type II Distribution - Median and Mean
+StatsResource.github.io | Probability Distributions | Continuous Distributions | The Pareto Distribution
+https://youtu.be/Es0qlyIT-C4 
+Run Time: 4:40 
+
+-------------------------------------------
+2. Video 171
+Correlation Of Random Variables (Worked Example)
+
+-------------------------------------------
