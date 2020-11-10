@@ -132,5 +132,30 @@ Video Link: https://youtu.be/guD3C0r7G2w
 Run Time : 9:06
 SR: InformationTheory/Entropy Calculations.tex
 
+====================================================================
+====================================================================
 
+H.
+Confidence Intervals for Proportions - Worked Example 1
+StatsResource.github.io | Inference Procedures | Confidence Intervals for Proportions - Worked Examples
+Confint_C_FemalePolicyHolders.mp4
+Run Time :5:00
+https://youtu.be/YI1TkMJVd8U
+------------------------------------------------------
+Confidence Intervals for Proportions - Worked Example 2
+Confidence Interval For Proportions - Worked Example B - Household Damage.mp4
+Run Time :5:54
+https://youtu.be/Zl9vr3_XH0k
+------------------------------------------------------
+Confidence Intervals for Proportions - Worked Example 2
+Confidence Interval For Proportions - Worked Example B - Household Damage.mp4
+https://youtu.be/2xjUo5JkMHE
+Confint_A_mailorderdelivery.mp4
+Run Time :6:37
 
+------------------------------------------------------
+Confidence Intervals for Proportions - Worked Example E - Majorca.mp4
+Run Time :4:53
+------------------------------------------------------
+ConfInt_D_Govt_policy.mp4
+Run Time: 7:37
