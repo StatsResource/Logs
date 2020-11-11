@@ -92,19 +92,19 @@ Diff-Means-4.mp4
 ----------------------------
 
 Outstanding : Add Question Text to SR Website
-====================================================================
-====================================================================
+=========================================================================================================================================================
+=========================================================================================================================================================
 C.
 
 
-====================================================================
-====================================================================
+=========================================================================================================================================================
+=========================================================================================================================================================
 D.
 
 
 
-====================================================================
-====================================================================
+=========================================================================================================================================================
+=========================================================================================================================================================
 E.
 Information Theory - Entropy
 
@@ -113,8 +113,9 @@ Moved to USB
 --------------------------------------------------------------------
 
 
-====================================================================
-====================================================================
+
+=========================================================================================================================================================
+=========================================================================================================================================================
 F.
 Information Theory - Huffman Coding
 
@@ -122,18 +123,23 @@ X -  https://github.com/DragonflyStats/Tutorials/edit/master/02_Ready/MR_013_Inf
 Moved to USB
 --------------------------------------------------------------------
 
-====================================================================
-====================================================================
+=========================================================================================================================================================
+=========================================================================================================================================================
 G
-Entropy Calculations
+Entropy Calculations In Information Theory (Maximum Entropy)
 StatsResource.github.io | Information Theory | Entropy
-Entropy Calculations  In Information Theory (Maximum Entropy)
+
+Video 166
+SR: InformationTheory/EntropyCalculations.tex
 Video Link: https://youtu.be/guD3C0r7G2w
 Run Time : 9:06
-SR: InformationTheory/Entropy Calculations.tex
 
-====================================================================
-====================================================================
+SR: InformationTheory/Entropy Calculations.tex
+--------------------------------------------------------------------
+Add Text to Website
+
+=========================================================================================================================================================
+=========================================================================================================================================================
 
 H.
 
@@ -160,12 +166,14 @@ Run Time :6:37
 ------------------------------------------------------
 Confidence Intervals for Proportions - Worked Example E - Majorca.mp4
 Run Time :4:53
+Take Video from Hard Drive
 ------------------------------------------------------
 ConfInt_D_Govt_policy.mp4
 Run Time: 7:37
+Take Video From Hard Drive
 
-====================================================================
-====================================================================
+=========================================================================================================================================================
+=========================================================================================================================================================
 
 I
 Assored Transfers from MR to SR
@@ -180,7 +188,71 @@ Run Time: 4:40
 2. Video 171
 Correlation Of Random Variables (Worked Example)
 
--------------------------------------------
+Confindence Intervals For Proportions - Worked Example 1
+MR: https://studio.youtube.com/video/va0VVXX4gpQ/edit
+Run Time : 5:09
+Delete from MR
+
+TAGS: Confidence intervals,proportion confidence interval
+
+----------------------------------------------------------
+3.
+MR: Sample Size Estimation For Proportions - Worked Example
+https://studio.youtube.com/video/qmDtN5oRqoA/edit
+Run Time : 6:53
+Delete from MR
+
+-----------------------------------------------------------
+4.
+Normal Random Variables - Widget Production
+Run Time : 13:03
+Delete from MR
+
+Check for Duplicate
+Tags: Normal Random Variables,Normal RVs,combining normal variables
+
+-----------------------------------------------------------
+5.
+https://studio.youtube.com/video/5sdwlJrGRTU/edit
+Run Time : 6:19
+Delete from MR
+
+-------------------------------------------------------------
+6.
+Wilcoxon Signed Rank and Sign Tests (Nonparametric Tests)
+https://studio.youtube.com/video/RWFKl0gC3w0/edit
+Run Time : 6:19
+Delete from MR
+
+--------------------------------------------------------------
+7.
+Type I and Type II Error
+https://studio.youtube.com/video/OEHbYdAmT4k/edit
+Run Time : 6:19
+Delete from MR
+--------------------------------------------------------------
+8.
+Hypothesis Test For Variance
+StatsResource.github.io | Inference Procedures | Inference for Variance
+https://studio.youtube.com/video/z9yNZI9s1Y4/edit
+Run Time : 3:49
+Delete from MR
+--------------------------------------------------------------
+9.
+Descriptive Statistics - Simple Exercise to compute population proportion
+https://studio.youtube.com/video/PW-Eqqy4fYA/edit
+Run Time : 6:33
+Delete from MR
+--------------------------------------------------------------
+10.
+Game Theory - Two Player Games
+StatsResource.github.io | Game Theory | Two Player Games
+https://studio.youtube.com/video/goBh_etp0Zg/edit
+Run Time : 11:11
+Delete from MR
+Tags: 
+game theory,mixed strategy game theory,optimal strategy for a game,payoff matrices used in game theory,game theory operations research,game theory optimal strategy,game theory mixed strategy,game theory problems,determine the optimum strategies and value of the following game,game theory payoff matrices,saddle point game theory,algebraic method in game theory,game theory math,game theory optimization techniques,game theory two person zero sum,payoff matrix
+
 
 
 ====================================================================
