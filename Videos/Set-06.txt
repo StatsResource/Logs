@@ -67,6 +67,8 @@ https://youtu.be/zBf5-snySVo
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 B.
+============
+
 Selection of Probability Videos moved from MR to SR 
 Continuation of Ticket 6A.
 Most Deleted on MR
@@ -105,7 +107,7 @@ Conditional Probability Using Venn Diagrams,Conditional Probability,Venn Diagram
 conditional probability venn diagram,venn diagram probability 
 ----------------------------------------------
 Part 12
-
+Video 191
 Conditional Probability - Worked Example - Additional Driving Education
 Video link: https://youtu.be/y2LgDN3sA-g 
 Runtime: 6:48
@@ -113,12 +115,14 @@ Runtime: 6:48
 Part 13
 Condition Probability - Worked Example Age Of Insurance Claimants
 Runtime: 6:57
+Video 190
 https://youtu.be/hr0qo3jKhqg 
 BasicProbability-AgeOfClaimant.mp4 
 ----------------------------------------------
 Part 14
 Probability Worked Example (Independent Events) Electrical Circuits Example
 Probability Tutorial - Electrical Circuit Example
+Video 189
 Runtime: 9:00
 Video link: https://youtu.be/DWNEopt8qNs
 
@@ -147,6 +151,7 @@ Expected Cost,Conditional Probability,Bayes Theorem
 Part 18
 Traffic Lights Question (Independent Events in Probability)
 Runtime 10:55
+Video 187
 MR: https://studio.youtube.com/video/fhzc6uQR7jE/edit
 Probability - Independent Events (Traffic Lights Example) 
 SR Video link: https://youtu.be/qEBFvrgLtrY 
@@ -158,3 +163,57 @@ traffic light,
 traffic light based question in lcm,
 permutation on traffic lights,
 probability of traffic lights 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+C
+==============================
+
+203
+Probability - Worked Example
+
+-------------------------------------------------------
+202
+Conditional Probability Worked Example
+
+-------------------------------------------------------
+201
+Probabiliity - Worked Example with Venn Diagrams
+
+-------------------------------------------------------
+200
+Uniform Distribution - Worked Example
+-------------------------------------------------------
+199
+Exponential Distribution - Worked Example
+
+-------------------------------------------------------
+198
+HypothesisTesting for Proportions - Worked Example
+
+-------------------------------------------------------
+197
+Harmonic Mean,,Descriptive Statistics,,...,...,...
+196
+Chi Square Test Worked Example 1 (Part 2)
+
+-------------------------------------------------------
+195
+Statistics with R: Single Sample Proportion Hypothesis Test
+
+-------------------------------------------------------
+194
+Chi Square Test Worked Example 1 (Part 1)
+
+-------------------------------------------------------
+193
+Probability Rules
+
+-------------------------------------------------------
+192
+Probability - Independent Events
+
+-------------------------------------------------------
+191
+Conditional Probability 
