@@ -190,8 +190,9 @@ Continuous Random Variables
 Transfer from MR to SR
 ------------------------------------------------------------------------
  - Part A.
- Video 172
+ Video 174
  Runtime: 13:17
+ Continuous Random Variables - Worked Example 3
  MathsResource.github.io | Probability Distributions | Continuous Random Variables
 
  [Ref: HC1-2006-Q4]
@@ -206,36 +207,51 @@ Transfer from MR to SR
  NO FURTHER ACTION- REMAKE VIDEO
 ------------------------------------------------------------------------
  - Part C.
- No recorded source
- Runtime: 12:12
- Video 173
+Continuous Random Variables - Worked Example 2
+No recorded source
+Runtime: 12:12
+https://youtu.be/IdyhE3BbV3w 
+Video 173
 ------------------------------------------------------------------------
- - Part D.
- No recorded source
- Runtime: 6:14
- Video 174
+- Part D.
+Continuous Random Variables - Worked Example 1
+No recorded source
+Runtime: 6:14
+Video 172
+https://youtu.be/v4IrNN7bqBY 
+
+
 ------------------------------------------------------------------------
  - Part  E. 
  
+Continuous Random Variables - Worked Example 4
 StatsResource.github.io | Probabaility Distributions | Continuous Random Variables
 ContinuousRandomVariable_WorkedExample-RSS-2006-HC1-Q3.mp4
 [Ref: HC1-2006-Q3-A] 
 Runtime: 9:15
- Video 175
+Video 5:  https://youtu.be/_Q3YUl0S0vI 
+Video 175
+
+
 ------------------------------------------------------------------------
  - Part F.
-
+ Continuous Random Variables - Worked Example 5
 StatsResource.github.io | Probabaility Distributions | Continuous Random Variables
 ContinuousRandomVariable_WorkedExample-RSS-2006-HC1-Q3.mp4
 Runtime: 9:11
-  Video 176
+https://youtu.be/qlJLWuAEZXk 
+Video 176
 ------------------------------------------------------------------------
  - Part G.
- 
 Continuous Random Variables : Relationships between Density Functions 
 StatsResource.github.io | Probabaility Distributions | Continuous Random Variables
 Runtime: 8:10
- Video 177 
-
+Video 177
+Video link: https://youtu.be/QoKBF0kdq5E
+------------------------------------------------------------------------
+- Part H
+On MR
+https://studio.youtube.com/video/PqKoxm4Igog/edit
+Add to Website
 ====================================================================
 ====================================================================
