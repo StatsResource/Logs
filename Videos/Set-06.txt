@@ -6,11 +6,11 @@ Most Deleted on MR
 Probability Video 1
 Run Time: 5:02
 Basic Probability MA4102.mp4
-
+Video link: https://youtu.be/0rt9555ObKc 
 -------------------------------------------------------------------------
 
 Probability Video 2
-Independent Events ( Probability )
+Independent Events (Probability)
 Run Time: 1:50
 DELETED ON MR
 -------------------------------------------------------------------------
@@ -18,18 +18,21 @@ Probability Video 3
 Probability - Sampling without Replacement
 Run Time: 4:08
 STILL ON MR
-
+Video link: https://youtu.be/Vus69yjKUdU 
 -------------------------------------------------------------------------
 
 Probability Video 4
 Run Time: 12:42
 MA4102 2013 Prob 3.mp4
+Video link: https://youtu.be/MPeul3ZwSdM 
 DELETED ON MR
 -------------------------------------------------------------------------
 
 Probability Video 5
 Probability - Using Venn Diagrams
 Run Time: 11:16
+Video link
+https://youtu.be/VRkn2Rwejxg 
 
 venn diagrams probability,
 exhaustive events probability,
@@ -40,38 +43,25 @@ Probability Video 6
 Probability :  Dice Roll Short Question
 Run Time: 3:03
 
-probability dice question,
-probability of a dice roll,
-probability of dice rolls
+ Video link
+https://youtu.be/KHUrrJjE1sk 
+
+
 -------------------------------------------------------------------------
 Probability Video 7
 Probability :  Mutually Exclusive Events
+Video 180
 Run Time: 5:11
-
+https://youtu.be/g6-AsopQGUQ 
 
 -------------------------------------------------------------------------
 
 Probability Video 8
 StatsResource.github.io | Probability | Conditional Probability
 Probability Tutorial Question  - Airport Arrivals and Departures
+Video 179
 Run Time: 14:46
-
--------------------------------------------------------------------------
-Probability Video 9
-StatsResource.github.io | Probability | Conditional Probability
-Conditional Probability 
-RSS HC1 1998 - Newspaper Competition Part A
-Run Time: 7:36
-
-
--------------------------------------------------------------------------
-Probability Video 10
-StatsResource.github.io | Probability | Conditional Probability
-Conditional Probability 
-RSS HC1 1998 - Newspaper Competition Part B
-Run Time: 10:09
-
-
+https://youtu.be/zBf5-snySVo 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -84,42 +74,62 @@ Most Deleted on MR
 ----------------------------------------------
 Part 9
 Runtime: 7:36
-DUPLICATE SR VIDEO 127?
+DUPLICATE SR VIDEO 50?
+
+Probability Video 10
+StatsResource.github.io | Probability | Conditional Probability
+Conditional Probability 
+RSS HC1 1998 - Newspaper Competition Part B
+Run Time: 10:09
+
 ----------------------------------------------
 Part 10
 Runtime: 10:09
-DUPLICATE
+DUPLICATE SR VIDEO 49?
+
+Probability Video 9
+StatsResource.github.io | Probability | Conditional Probability
+Conditional Probability 
+RSS HC1 1998 - Newspaper Competition Part A
+Run Time: 7:36
+
 ----------------------------------------------
 Part 11
 Conditional Probability- Using Venn Diagrams
 MathsResource.github.io  | Probability | Conditional Probability Using Venn Diagrams
 Runtime: 6:34
+https://youtu.be/DDKzDxXROKw 
 
 
 Conditional Probability Using Venn Diagrams,Conditional Probability,Venn Diagrams
 conditional probability venn diagram,venn diagram probability 
 ----------------------------------------------
 Part 12
-Runtime: 6:48
+
 Conditional Probability - Worked Example - Additional Driving Education
+Video link: https://youtu.be/y2LgDN3sA-g 
+Runtime: 6:48
 ----------------------------------------------
 Part 13
 Condition Probability - Worked Example Age Of Insurance Claimants
 Runtime: 6:57
+https://youtu.be/hr0qo3jKhqg 
 BasicProbability-AgeOfClaimant.mp4 
 ----------------------------------------------
 Part 14
+Probability Worked Example (Independent Events) Electrical Circuits Example
 Probability Tutorial - Electrical Circuit Example
 Runtime: 9:00
-
+Video link: https://youtu.be/DWNEopt8qNs
 
 TAGS:
 circuit probability,probability circuit,probability circuits,probability electrical system,circuits probability,probability of a circuit,probability circuit problems,electric circuit probability,parallel circuit probability,probability of circuits,probability and statistics circuit,probability with circuits,probability electerical circuit,calculating probability of a circuit,probability of a functioning circuit
 ----------------------------------------------
 Part 15
 Introduction to Probability
+Probability Worked Examples - Coin Toss Example
 Runtime: 7:08
-
+https://youtu.be/MrpjAT1bmSU 
 ----------------------------------------------
 Part 16
 Rules Of Probability
@@ -138,6 +148,8 @@ Part 18
 Traffic Lights Question (Independent Events in Probability)
 Runtime 10:55
 MR: https://studio.youtube.com/video/fhzc6uQR7jE/edit
+Probability - Independent Events (Traffic Lights Example) 
+SR Video link: https://youtu.be/qEBFvrgLtrY 
 
 TAGs
 probability traffic,
