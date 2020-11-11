@@ -181,3 +181,61 @@ Run Time: 4:40
 Correlation Of Random Variables (Worked Example)
 
 -------------------------------------------
+
+
+====================================================================
+====================================================================
+J.
+Continuous Random Variables
+Transfer from MR to SR
+------------------------------------------------------------------------
+ - Part A.
+ Video 172
+ Runtime: 13:17
+ MathsResource.github.io | Probability Distributions | Continuous Random Variables
+
+ [Ref: HC1-2006-Q4]
+  OR
+ ContinuousRandomVariable_WorkedExample-RSS-2003-HC1-Q4.mp4
+
+
+------------------------------------------------------------------------
+ - Part B.
+ Runtime: 10:57
+ NO SOUND 
+ NO FURTHER ACTION- REMAKE VIDEO
+------------------------------------------------------------------------
+ - Part C.
+ No recorded source
+ Runtime: 12:12
+ Video 173
+------------------------------------------------------------------------
+ - Part D.
+ No recorded source
+ Runtime: 6:14
+ Video 174
+------------------------------------------------------------------------
+ - Part  E. 
+ 
+StatsResource.github.io | Probabaility Distributions | Continuous Random Variables
+ContinuousRandomVariable_WorkedExample-RSS-2006-HC1-Q3.mp4
+[Ref: HC1-2006-Q3-A] 
+Runtime: 9:15
+ Video 175
+------------------------------------------------------------------------
+ - Part F.
+
+StatsResource.github.io | Probabaility Distributions | Continuous Random Variables
+ContinuousRandomVariable_WorkedExample-RSS-2006-HC1-Q3.mp4
+Runtime: 9:11
+  Video 176
+------------------------------------------------------------------------
+ - Part G.
+ 
+Continuous Random Variables : Relationships between Density Functions 
+StatsResource.github.io | Probabaility Distributions | Continuous Random Variables
+Runtime: 8:10
+ Video 177 
+
+====================================================================
+====================================================================
