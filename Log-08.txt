@@ -16,6 +16,84 @@ FourStepsof HypothesisTesting.mp4
 ==============================================================================
 B.
 
+Video 200 - Uniform Distribution
+
+The weights to salads taken by customers at a self-service salad bare found to be uniformly distributed between 250g and 450g
+
+<h5> Exercises </h5> 
+a. Write down the probability density function for this distribution.
+b. Find the probability that a customer will take a salad weighing more than 400g.
+c. Find the probability that a customer will take a salad weighing between 320g and 400g.
+d. What are the mean and standard deviations of the salad weights taken by customers.
+
+ https://youtu.be/ok9k-oJlhjs 
+
+
+ -------------------------------------------------------------------------
+ 
+Video 201
+ 
+ Suppose that $A$ and $B$ are events from a sample space such that
+ $P(A) = 0.65$ and $P(B) =0.45$ and $P(A\cap B) = 0.32$
+
+ <h5> Exercises </h5> 
+a. Find $P(B^{c})$.
+b. Find $P(B|A)$.
+c. Find $P(A \;\cup\;B)$.
+d. Find $P(A^{c} \;\cup\;B^{c})$.
+
+
+https://youtu.be/ht3rRmPJ0Q4 
+
+ -------------------------------------------------------------------------
+
+Video 197
+
+ Harmonic Mean
+ 
+ \[ H = \frac{n}{ \frac{1}{x_1} + \frac{1}{x_2} + \ldots \frac{1}{x_n} } \]
+
+* Example 1  - Find the harmonic mean of ${7,9\}$.
+* Example 2  - Find the harmonic mean of ${7,9,3\}$.
+ 
+ 
+ https://youtu.be/LyAuzhWk5kI  
+ -------------------------------------------------------------------------
+ 
+Videos 194 and 196
+ 
+One of the questions on a business magainzes subscribers only study was:
+
+"In the past 12 months, when travelling for business, what types of airline tickets did you purchase most often?"
+
+The data obtained are show in the table below
+  
+| | | Domestic Flight | International Flight| |
+|:------:|:------:|:------:|:------:|:------:|
+| | First Class | 65 | 55 ||
+| |Business Class / Executive | 140 | 100||
+| | Economy |520|120||  
+
+<h5> Exercises </h5> 
+* Using a 5% significance level, test for the independence of type of flight and type of ticket. What is your conclusion? 
+
+
+<h5> Solution</h5> 
+Part A  https://youtu.be/nitlgJUluRE 
+Part B https://youtu.be/oBJmx6bkXpA 
+
+
+---------------------------------------------------------------------------
+Probability - Independent Events
+Suppose that A and B are two independent events with P(A), the probability that A occurs, equal to 0.4, and P(B), the probability that B occurs, equal to 0.5.
+You may assume that A and B are independent events.
+
+<h5> Exercises </h5> 
+a. Calculate $P(A \cap B)$, the probability of both A and B occuring (i.e. simultaneously).
+b. Calculate $P(A \cup B)$, the probability of either A and B (or both) occuring.
+
+<h5> Solution</h5> 
+ https://youtu.be/eeFI0CY2P48 
 
 ==============================================================================
 C.
