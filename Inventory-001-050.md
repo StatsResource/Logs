@@ -2,6 +2,7 @@
 ===============================================================
 C.	
 Video 22
+
 Wilcoxon Signed Rank Test -  Aural Memory Tests Example (Non Parametric Tests)	
 Wilcoxon Signed Rank Test -  Aural Memory Tests Example (Non Parametric Tests)	
 <a href="https://youtu.be/d51CcSfU4fQ/">	
@@ -9,6 +10,7 @@ Wilcoxon Signed Rank Test -  Aural Memory Tests Example (Non Parametric Tests)
 ===============================================================
 D.	
 Video 21
+
 Wilcoxon Signed Rank Test (Non-Parametric Hypothesis Tests)	
 Wilcoxon Signed Rank Test (Non-Parametric Hypothesis Tests)	
 a href="https://youtu.be/3j9iXHVnK3k/">	
@@ -34,20 +36,3 @@ Exponential Random Variables   - Distribution of the Minima
 <li>	<a href="https://youtu.be/HbKGfxMsX5U/">	
 Exponential Random Variables   - Distribution of the Minima
 ===============================================================
-H.	
-Video 99
-Median of A Random Variable	
-<li>	<a href="https://youtu.be/nWEQlEqjLeQ/">	
-Median of A Random Variable
-===============================================================
-I.
-Video 98
-Random Variables - Mixed Probability Distributions	
-<li>	<a href="https://youtu.be/rJGWcfBD-EI/">	
-Random Variables - Mixed Probability Distributions
-===============================================================
-J.
-Video 97
-Random Variables: Cumulative Distributions Functions of Maxima and Minima	
-<li>	<a href="https://youtu.be/aceFFyJCT4k/">	
-Random Variables: Cumulative Distributions Functions of Maxima and Minima
