@@ -205,3 +205,104 @@ May 17, 2022
 StatsResource.github.io - Random Variables Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics SR 04008
 Random Variables - Derivation of the CDF - Worked Example
 05:13
+
+----------------------
+------------------------------------------------------------------
+### Video 389
+
+Lognormal Distribution - Percentiles (Worked Example)	
+		
+- StatsResource.github.io - Lognormal Distribution - Worked Examples Statistics and Probability Tutorial Videos 
+- Worked Examples and Demonstrations about Statistics SR 04036					
+				
+Runlength: 04:51					
+
+------------------------------------------------------------------
+### Video 390
+
+- StatsResource.github.io Statistics and Probabilty Tutorial Videos 
+- Worked Examples and Demonstrations about Statistics 
+SR 04056 CRVs					
+Continuous Random Variables - Expected Value and Density Function - Worked Example					
+Runlength: 04:23					
+
+------------------------------------------------------------------
+### Video 391
+				
+StatsResource.github.io Statistics and Probabilty Tutorial Videos 
+- Worked Examples and Demonstrations about Statistics SR 04057 CRVs					
+- Continuous Random Variables - Expected Value - Worked Example					
+Runlength: 05:32					
+
+------------------------------------------------------------------
+### Video 392
+
+Continuous Random Variables - Gamma Functions	
+
+- StatsResource.github.io - Random Variables Statistics and Probabilty Tutorial Videos  
+- Worked Examples and Demonstrations about Statistics SR 04063					
+- Runlength: 06:57					
+
+------------------------------------------------------------------
+			
+StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics SR-04034 (was SR 04066)					
+Weibull Distribution - Worked Example (Magnetic Disk)					
+03:26					
+
+------------------------------------------------------------------
+### Video 394
+				
+StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics SR 04067					
+Weibull Probability Distribution - Worked Example					
+08:04					
+
+------------------------------------------------------------------
+### Video 395					
+StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics					
+Appraising Binary Classifiers - Accuracy, Precision, Recall and F Score (Worked Example)					
+08:14					
+
+------------------------------------------------------------------
+### Video 396 					
+					
+None					
+Public					
+StatsResource.github.io - Probability Distributions - The Uniform Distribution Statistics and Probabilty Tutorial Videos 
+- Worked Examples and Demonstrations about Statistics Uniform Distribution MRSB 013					
+Uniform Distribution - Worked Example					
+
+Runlength: 05:54					
+Published: Sep 17, 2022
+
+------------------------------------------------------------------
+### Video 397
+				
+StatsResource.github.io - Probability - Fundamentals of Probability Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics					
+Rules of Probability - Worked Example					
+Runlength: 04:29					
+
+------------------------------------------------------------------
+### Video 398		
+	
+Markov Chains
+
+- StatsResource.github.io - Stochastic Processes - Markov Chains Statistics and Probabilty Tutorial Videos 
+- Worked Examples and Demonstrations about Statistics 
+- REF: AERL 002 MarkovChains					
+- Run length 07:33					
+
+------------------------------------------------------------------
+### Video 399				
+Random Number Generation - The Gamma Distribution
+
+- StatsResource.github.io - Random Number Generation Statistics and Probabilty Tutorial Videos 
+- Worked Examples and Demonstrations about Statistics 
+- REF: AERL 001 RandomNumberGenerations Gamma FIA CT6 2006 April Q5					
+- Runlength: 10:39				
+
+------------------------------------------------------------------
+### Video 400
+
+StatsResource.github.io - Coutning Problems - Venn Diagrams Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics					
+Counting Problems - Worked Example with Venn Diagrams					
+07:01					
