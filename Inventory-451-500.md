@@ -1,9 +1,4 @@
-A.
-Survival Models
 
-Actioned
-========================================================================
-B.
 Weibull Distribtion
 
 
