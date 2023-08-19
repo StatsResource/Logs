@@ -1,5 +1,6 @@
 
 ------------------------------------------------------------------------------
+
 ### Video 269 
 
 Jan 3, 2022
@@ -10,22 +11,20 @@ Pareto Type II Distribution - Worked Examples (Method Of Moments)
 07:09
  Pareto Type II Distribution - Worked Examples (Method Of Moments)
 0 likes
-0.00%
-1
-367
+
 ------------------------------------------------------------------------------
 ### Video 270
 
 Jan 3, 2022
-None
-Public
+
 StatsResource.github.io | Probability Distributions | Pareto Type II Distribution Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics and Probability Distributions. Worked examples feature examples from Actuarial Science and Financial Mathematics. SR -03030
+
 Pareto Type II Distribution - Worked Example (Mean Excess Loss)
 05:15
  Pareto Type II Distribution - Worked Example (Mean Excess Loss)
 –
 0
-126
+
 ------------------------------------------------------------------------------
 Jan 3, 2022
 None
