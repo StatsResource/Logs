@@ -1,127 +1,146 @@
 --------------------------------------------------------
 ### Video 100
-Aug 3, 2020	
-None	
-Public	
-StatsResource.github.io | Probability Distributions | Exponential Distribution	
+
 Exponential Random Variables - Distribution of the Minima	
-04:18	
-–	
-0	
-33	
---------------------------------------------------------
-### Video 101
+
 Aug 3, 2020	
-None	
-Public	
+	
+	
+* StatsResource.github.io | Probability Distributions | Exponential Distribution	
+* Runlength: 04:18	
+	
+
+--------------------------------------------------------
+
+### Video 101
+
+Aug 3, 2020	
+	
+	
 StatsResource.github.io | Probability | Conditonal Probability | Worked Examples	
 Conditional Probability -Disease Detection Worked Example	
-06:04	
-–	
-0	
-25	
+* Runlength: 06:04	
+	
 --------------------------------------------------------
+
 ### Video 102
+
+Mixed Probability Distributions - Worked Example
+
 Aug 3, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Probability Distributions | Advanced Topics | Mixed Probability Distributions	
-Mixed Probability Distributions - Worked Example	
-05:36	
-8 likes	
+	
+* Runlength: 05:36	
+
 100.00%	
 1	
 736	
+
 --------------------------------------------------------
+
+### Video 103
+
 Aug 11, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Inference Procedures | Testing Model Assumptions	
 Dixon Q Test for Outliers	
-12:36	
+* Runlength: 12:36	
 16 likes	
 88.90%	
 2	
 1,878	
+
 --------------------------------------------------------
+
 ### Video 104
-Aug 11, 2020	
-None	
-Public	
-StatsResource.github.io | Inference Procedures | Testing Model Assumptions	
+
 Dixon Q Test for Outliers - Worked Example	
-05:40	
+
+Aug 11, 2020	
+	
+	
+StatsResource.github.io | Inference Procedures | Testing Model Assumptions	
+
+* Runlength: 05:40	
 –	
 0	
 15	
 --------------------------------------------------------
+
 Sep 17, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Probability Distribution | Binomial Distribution	
 Binomial Distribution - Worked Example ( Claims Distribution as a Discrete Random Variable)	
-06:02	
-48 likes	
-94.10%	
-1	
-5,504	
+* Runlength: 06:02	
+
+
 --------------------------------------------------------
 ### Video 106
 Sep 17, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Probability | Random Variables | Continuous Random Variables - Worked Examples	
 Continuous Random Variables - Conditional Probability Worked Example	
-04:46	
+* Runlength: 04:46	
 –	
 0	
 19	
 --------------------------------------------------------
 Sep 17, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Normal Distribution | Central Limit Theorem - Worked Examples	
 Central Limit Theorem & Normal Distribution - Worked Example	
-04:43	
-–	
-0	
+* Runlength: 04:43	
+
 17	
+
 --------------------------------------------------------
+
 ### Video 108
+
 Sep 17, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Probability | Random Variables | Joint Random Variables - Worked Example	
 Joint Distribution of Random Variables - Health Science Example	
-10:02	
-–	
-0	
-12	
+* Runlength: 10:02	
+
 --------------------------------------------------------
-Sep 17, 2020	
-None	
-Public	
-StatsResource.github.io | Normal Distribution | Differences and Sums of Normal Random Variables	
+
+### Video 109
+
 Difference of Normal Random Variables - Worked Example	
-05:29	
-–	
-0	
+Sep 17, 2020	
+	
+	
+StatsResource.github.io | Normal Distribution | Differences and Sums of Normal Random Variables	
+
+* Runlength: 05:29	
+
 59	
+
 --------------------------------------------------------
 ### Video 110
+
+Normal Approximation of the Binomial Distribution - Worked Example
+
 Sep 17, 2020	
-None	
-Public	
-StatsResource.github.io | Probability Distributions | Advanced Topics | Approximations - Worked Examples Using the Normal distribution to approximate the Binomial distribution.	
-Normal Approximation of the Binomial Distribution - Worked Example	
-06:24	
-–	
-0	
-9	
+	
+	
+* StatsResource.github.io | Probability Distributions | Advanced Topics | Approximations 
+* Worked Examples Using the Normal distribution to approximate the Binomial distribution.	
+	
+* Runlength: 06:24	
+
 --------------------------------------------------------
 Sep 17, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Probability | Counting Problems - Worked Example	
 Counting Problems - Worked Example	
 04:31	
@@ -132,8 +151,8 @@ Counting Problems - Worked Example
 
 ### Video 112
 Sep 18, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Probability Distributions | Binomial Distribution - Worked Example	
 Binomial Distribution - Worked Example	
 06:00	
@@ -142,8 +161,8 @@ Binomial Distribution - Worked Example
 8	
 --------------------------------------------------------
 Sep 18, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Probability Distributions | Approximations | Worked Example	
 Normal Approximation of the Binomial Distribution - Worked Example	
 05:48	
@@ -153,8 +172,8 @@ Normal Approximation of the Binomial Distribution - Worked Example
 --------------------------------------------------------
 ### Video 114
 Sep 18, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Probability Distributions | Approximations - Worked Example	
 Normal Approximation of the Binomial Distribution - Worked Example	
 04:13	
@@ -163,8 +182,8 @@ Normal Approximation of the Binomial Distribution - Worked Example
 10	
 --------------------------------------------------------
 Sep 18, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Inference Procedures | Confidence Intervals for Single Samples | Sample Mean - Worked Example	
 Confidence Interval for a Sample Mean - Worked Example	
 05:42	
@@ -175,8 +194,8 @@ Confidence Interval for a Sample Mean - Worked Example
 --------------------------------------------------------
 ### Video 116
 Sep 18, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Probability | Conditional Probability | Worked Examples	
 Conditional Probability -Worked Example ( Car and Home Insurance)	
 07:34	
@@ -186,8 +205,8 @@ Conditional Probability -Worked Example ( Car and Home Insurance)
 --------------------------------------------------------
 
 Sep 19, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Inference Procedures | Confidence Intervals | Worked Example	
 Confidence Interval for a Sample Mean - Worked Example	
 05:27	
@@ -198,11 +217,13 @@ Confidence Interval for a Sample Mean - Worked Example
 --------------------------------------------------------
 ### Video 118
 
+Normal Approximation of the Binomial Distribution - Worked Example
+
 Sep 19, 2020	
-None	
-Public	
+	
+	
 StatsResource.github.io | Probability Distributions | Approximations - Worked Example	
-Normal Approximation of the Binomial Distribution - Worked Example	
+	
 05:32	
 	
 ------------------------------------------------------------------
@@ -233,13 +254,13 @@ Survival Models - Cox Regression Model
 ### Video 140
 
 Survival Analysis :  Kaplan Meier Estimates (Lightbulb Example)
-https://youtu.be/hIXJJh07ZkQ 
-11:42 Eun Length
-MR and SR
-SR Video 140
 
-StatsResource.github.io | Survival Analysis | Kaplan Meier Estimates
-CT4-April-2013-Q7-Survival-KaplanMeier.mp4 
+* https://youtu.be/hIXJJh07ZkQ 
+* 11:42 Eun Length
+* MR and SR
+* SR Video 140
+* StatsResource.github.io | Survival Analysis | Kaplan Meier Estimates
+* CT4-April-2013-Q7-Survival-KaplanMeier.mp4 
 
 
 -------------------------------------------------------
@@ -264,12 +285,3 @@ Survival Analysis Kaplan Meier Insects CT4 2005 April B5.mp4
 ACTIONED: Content added to website, Solution linked from MR
 FOLLOW UP: Re-record video to make it shorter (<15 Minutes)
 
-===========================================================
-Outstanding from 2020-10-29-A
-Survival Analysis - Kaplan Meier Survival Estimates
-StatsResource.github.io | Survival Analysis | Kaplan Meier
-
-----------------------------------------------------------
-
-kaplan meier, survival analysis, survival models, 
-kaplan meier survival analysis
