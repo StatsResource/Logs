@@ -1,14 +1,4 @@
---------------------------------------------------------
-### Video 100
 
-Exponential Random Variables - Distribution of the Minima	
-
-Aug 3, 2020	
-	
-	
-* StatsResource.github.io | Probability Distributions | Exponential Distribution	
-* Runlength: 04:18	
-	
 
 --------------------------------------------------------
 
@@ -17,8 +7,8 @@ Aug 3, 2020
 Aug 3, 2020	
 	
 	
-StatsResource.github.io | Probability | Conditonal Probability | Worked Examples	
-Conditional Probability -Disease Detection Worked Example	
+* StatsResource.github.io | Probability | Conditonal Probability | Worked Examples	
+* Conditional Probability -Disease Detection Worked Example	
 * Runlength: 06:04	
 	
 --------------------------------------------------------
@@ -225,7 +215,195 @@ Sep 19, 2020
 StatsResource.github.io | Probability Distributions | Approximations - Worked Example	
 	
 05:32	
-	
+
+-------------------------------------------------------------------	
+### Video 119
+
+Video thumbnail:	Conditional Probability - Worked Example
+07:45	
+Conditional Probability - Worked Example	
+Sep 19, 2020	
+
+-------------------------------------------------------------------	
+### Video 120
+
+Video thumbnail:	Width of Confidence Intervals - Worked Example
+05:48	
+Width of Confidence Intervals - Worked Example	
+StatsResource.github.io | Inference Procedures | Confidence Intervals	
+Sep 20, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 121
+
+100.00%	
+Video thumbnail:	Exponential Distribution - Worked Example (with Binomial Distribution)
+06:46	
+Exponential Distribution - Worked Example (with Binomial Distribution)	
+StatsResource.github.io | Probability Distributions | Exponential Distribution - Worked Example	
+Sep 21, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 122
+
+Video thumbnail:	Confidence Intervals - Worked Example
+04:30	
+Confidence Intervals - Worked Example	
+StatsResource.github.io | Inference Procedures | Confidence Intervals - Worked Example	
+Sep 21, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 123
+
+Video thumbnail:	Probability Generating Functions - Worked Example
+05:22	
+Probability Generating Functions - Worked Example	
+StatsResource.github.io | Probability Distributions | Probability Generating Functions - Worked Example	
+Sep 21, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 124
+
+Video thumbnail:	Conditional Probability  - Worked Example (Workplace Accidents)
+08:08	
+Conditional Probability - Worked Example (Workplace Accidents)	
+StatsResource.github.io | Probability | Conditional Probability - Worked Example	
+Sep 21, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 125
+
+Video thumbnail:	Distribution of Sums of Uniform Random Variables ( Central Limit Theorem - Worked Example)
+05:38	
+Distribution of Sums of Uniform Random Variables ( Central Limit Theorem - Worked Example)	
+StatsResource.github.io | Probability Distributions | Sums of Random Variables (Central Limit Theorem) - Worked Example	
+Sep 21, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 126
+
+Video thumbnail:	Sampling Distributions for Sample Variances (Chi-square distribution)
+04:54	
+Sampling Distributions for Sample Variances (Chi-square distribution)	
+StatsResource.github.io | Sampling Distributions | Sampling Distributions for Sample Variances (Chi-square distribution)	
+Sep 21, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 127
+
+Video thumbnail:	Moment Generating Functions ( Expected Values ) - Worked Example
+04:24	
+Moment Generating Functions ( Expected Values ) - Worked Example	
+statsresource.github.io | Probability | Moment Generating Functions	
+Sep 29, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 128
+
+Video thumbnail:	Fundamentals of Probability - Venn Diagram Worked Example
+08:27	
+Fundamentals of Probability - Venn Diagram Worked Example	
+statsresource.github.io | Probability | Fundamentals of Probability | Venn Diagram Worked Example	
+Sep 29, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 129
+
+Video thumbnail:	The Gamma Distribution - Deriving the Cumulative Distribution Function
+14:06	
+The Gamma Distribution - Deriving the Cumulative Distribution Function	
+StatsResource.github.io | Probability Distributions | Gamma Distribution	
+Oct 27, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 130
+
+Video thumbnail:	Gamma Distribution - Computing the Mode and Skewness Coefficient
+07:15	
+Gamma Distribution - Computing the Mode and Skewness Coefficient	
+StatsResource.github.io | Probability Distributions | Gamma Distribution	
+Oct 27, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 131
+
+Video thumbnail:	Deriving the Moment Generating Function of a Discrete Random Variable
+10:48	
+Deriving the Moment Generating Function of a Discrete Random Variable	
+StatsResource.github.io | Probability | Moment Generating Functions	
+Oct 27, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 132
+
+Video thumbnail:	Probability Generating Functions - Worked Example
+04:04	
+Probability Generating Functions - Worked Example	
+StatsResource.github.io | Probability | Moment Generating Functions | Probability Generating Functions	
+Oct 27, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 133
+
+Video thumbnail:	Hypothesis Testing for Random Variables: Size and Power of a Test
+08:58	
+Hypothesis Testing for Random Variables: Size and Power of a Test	
+StatsResource.github.io | Random Variables | Hypothesis Testing	
+Oct 27, 2020	
+
+-------------------------------------------------------------------	
+
+503	
+100.00%	
+Video thumbnail:	Hypothesis Testing for Random Variables: Type I and Type II Errors
+06:25	
+Hypothesis Testing for Random Variables: Type I and Type II Errors	
+StatsResource.github.io | Random Variables | Hypothesis Testing	
+Oct 27, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 135
+
+Video thumbnail:	Gamma Distribution: Cumulant Generating Function
+09:33	
+Gamma Distribution: Cumulant Generating Function	
+StatsResource.github.io | Probability | Moment Generating Functions | Cumulant Generating Functions	
+Oct 27, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 136
+
+Video thumbnail:	Gamma Distributions  - Relationship with the  Chi Square Distribution (Worked Example)
+07:49	
+Gamma Distributions - Relationship with the Chi Square Distribution (Worked Example)	
+StatsResource.github.io | Probability Distribution | Gamma Distribution	
+Oct 27, 2020	
+
+-------------------------------------------------------------------	
+
+### Video 137
+
+Video thumbnail:	Gamma Distribution: Summations of Gamma Random Variables
+06:04	
+Gamma Distribution: Summations of Gamma Random Variables	
+StatsResource.github.io | Probability Distributions | Gamma Distribution	
+Oct 27, 2020	
+
 ------------------------------------------------------------------
 
 ### Video 138
@@ -276,12 +454,81 @@ https://youtu.be/kqKXdcts494
 CT4-April-2013-Q7-NelsonAalen-SurvivalAnalysis.mp4
 
 ------------------------------------------------------------------------------------
+### Video 142
 
-Survival Analysis - Kaplan Meier Estimates
-StatsResource.github.io | Survival Analysis | Kaplan Meier Estimates 
+Video thumbnail:	Dixon Q-Test For Outliers (Introduction to Hypothesis Testing)
+12:28	
+Dixon Q-Test For Outliers (Introduction to Hypothesis Testing)	
+StatsResource.github.io | Inference | Testing Model Assumptions & Introduction to Hypothesis Testing	
+Nov 2, 2020	
 
-Survival Analysis Kaplan Meier Insects CT4 2005 April B5.mp4
---------
-ACTIONED: Content added to website, Solution linked from MR
-FOLLOW UP: Re-record video to make it shorter (<15 Minutes)
+### Video 143
 
+100.00%	
+Video thumbnail:	Normal Distribution Worked Example (The Long Jumper)
+06:44	
+Normal Distribution Worked Example (The Long Jumper)	
+StatsResource.github.io | Probability Distributions | Normal Distribution | Worked Examples	
+Nov 2, 2020	
+
+### Video 144
+
+100.00%	
+Video thumbnail:	Conditional Probability:  Worked Example
+04:37	
+Conditional Probability: Worked Example	
+StatsResource.github.io | Probability | Conditional Probability | Worked Examples	
+Nov 2, 2020	
+
+### Video 145
+
+Video thumbnail:	Conditional Probability: Worked Example (Faulty Resistors)
+07:05	
+Conditional Probability: Worked Example (Faulty Resistors)	
+StatsResource.github.io | Probability | Conditional Probability | Worked Example - Faulty Resistors	
+Nov 2, 2020	
+
+### Video 146
+
+Video thumbnail:	Hypothesis test of the mean of a small sample: Worked example
+07:33	
+Hypothesis test of the mean of a small sample: Worked example	
+StatsResource.github.io | Inference Procedures | Hypothesis Testing | Tests of a Single Sample Mean | Worked Examples	
+Nov 2, 2020	
+Published	
+
+### Video 147
+
+Video thumbnail:	Hypothesis Test For Difference In Means (Small Samples): Worked Example
+08:30	
+Hypothesis Test For Difference In Means (Small Samples): Worked Example	
+StatsResource.github.io | Inference Procedures | Hypothesis Testing | Difference In Means | Worked Examples	
+Nov 2, 2020	
+Published	
+
+### Video 148 
+
+Video thumbnail:	Exponential Distribution Worked Example 5
+04:06	
+Exponential Distribution Worked Example 5	
+StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples	
+Nov 3, 2020	
+Published	
+44	
+Video thumbnail:	Exponential Distribution Worked Example 4
+06:18	
+Exponential Distribution Worked Example 4	
+StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples	
+Nov 3, 2020	
+Published	
+
+
+### Video 150
+
+Video thumbnail:	Exponential Distribution Worked Example 6
+05:02	
+Exponential Distribution Worked Example 6	
+StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples	
+Nov 3, 2020	
+Published	
+30	
