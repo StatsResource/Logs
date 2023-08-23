@@ -1,4 +1,4 @@
-### Video 251
+### Video 201
 
 Probabiliity - Worked Example with Venn Diagrams
 11:18	
@@ -8,7 +8,7 @@ Nov 11, 2020
 
 -------------------------------------------------------------------	
 
-### Video 252
+### Video 202
 	
 Video thumbnail:	Conditional Probability Worked Example
 05:02	
@@ -18,7 +18,7 @@ Nov 11, 2020
 
 -------------------------------------------------------------------	
 
-### Video 253
+### Video 203
 	
 Video thumbnail:	Probability - Worked Example
 04:06	
@@ -28,7 +28,7 @@ Nov 11, 2020
 
 -------------------------------------------------------------------	
 
-### Video 254
+### Video 204
 	
 Measures of Entropy -  Joint Entropy Worked Example
 05:50	
@@ -38,7 +38,7 @@ Nov 18, 2020
 
 -------------------------------------------------------------------	
 
-### Video 255
+### Video 205
 
 Video thumbnail:	Binary Communications Channels - Conditional Probabilities for Inputs and Outputs
 08:11	
@@ -48,7 +48,7 @@ Nov 18, 2020
 
 -------------------------------------------------------------------	
 
-### Video 256
+### Video 206
 
 Video thumbnail:	Measures of Entropy  - Worked Example
 04:41	
@@ -58,7 +58,7 @@ Nov 18, 2020
 
 -------------------------------------------------------------------	
 
-### Video 257
+### Video 207
 	
 Video thumbnail:	Measures of Entropy  - Hartleys
 06:08	
@@ -68,7 +68,7 @@ Nov 18, 2020
 
 -------------------------------------------------------------------	
 
-### Video 258
+### Video 208
 
 Video thumbnail:	Pareto Distribution - Worked Example Pareto Type I Distribution
 06:54	
@@ -78,7 +78,7 @@ Nov 19, 2020
 
 -------------------------------------------------------------------	
 
-### Video 259
+### Video 209
 
 Video thumbnail:	Introduction to Negative Binomial Distribution
 05:44	
@@ -88,7 +88,7 @@ Nov 19, 2020
 
 -------------------------------------------------------------------	
 
-### Video 260
+### Video 210
 	
 Video thumbnail:	Discrete Random Variable - Worked Example
 04:42	
@@ -98,7 +98,7 @@ Nov 19, 2020
 
 -------------------------------------------------------------------	
 
-### Video 261
+### Video 211
 
 Video thumbnail:	Deriving The Expectation of Negative Binomial Distribution
 12:02	
@@ -108,7 +108,7 @@ Nov 19, 2020
 
 -------------------------------------------------------------------	
 
-### Video 262
+### Video 212
 
 Video thumbnail:	Deriving The Variance of Negative Binomial Distribution
 11:20	
@@ -118,7 +118,7 @@ Nov 19, 2020
 
 -------------------------------------------------------------------	
 
-### Video 263
+### Video 213
 
 Video thumbnail:	Calculation of a Posterior Distribution -  Introductory Bayesian Statistics Example
 06:36	
@@ -128,7 +128,7 @@ May 5, 2021
 
 -------------------------------------------------------------------	
 
-### Video 264
+### Video 214
 
 Video thumbnail:	Decision Theory - Minimax Criterion ( Worked Example)
 03:35	
@@ -138,67 +138,77 @@ May 5, 2021
 
 -------------------------------------------------------------------	
 
-### Video 265
+### Video 215
 
 Video thumbnail:	Exponential Family of Distributions - Worked Example
 05:55	
 Exponential Family of Distributions - Worked Example	
 StatsResource.github.io | Generalized Linear Models | Exponential Family of Distributions Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 May 8, 2021	
+
 -------------------------------------------------------------------	
+
 121	
 100.00%	
 Video thumbnail:	Random Number Generation :  The Weibull Distribution
 05:41	
 Random Number Generation : The Weibull Distribution	
 May 11, 2021	
+
 -------------------------------------------------------------------	
 
-### Video 267
+### Video 217
 	
 Video thumbnail:	Weibull Distribution  - Estimating parameter values using the Methods of Moments
 07:21	
 Weibull Distribution - Estimating parameter values using the Methods of Moments	
 StatsResource.github.io | Probability Distributions | Weibull Distribution Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 May 14, 2021	
+
 -------------------------------------------------------------------	
 
-### Video 268
+### Video 218
 
 Video thumbnail:	Game Theory  -  Dominated Strategies and Saddle Points (Worked Example)
 07:29	
 Game Theory - Dominated Strategies and Saddle Points (Worked Example)	
 StatsResource.github.io | Game Theory | Dominated Strategies and Saddle Points | Worked Example Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 May 17, 2021	
+
 -------------------------------------------------------------------	
+
 118	
 100.00%	
 Video thumbnail:	Game Theory - Dominated Strategies (Worked Example)
 05:04	
 Game Theory - Dominated Strategies (Worked Example)	
 May 20, 2021	
+
 -------------------------------------------------------------------	
 
-### Video 270
+### Video 220
 
 Video thumbnail:	Pareto Distribution : Derivation of the Median
 06:06	
 Pareto Distribution : Derivation of the Median	
 StatsResource.github.io | Probability Distributions | Pareto (Type II) Distribution Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 May 25, 2021	
+
 -------------------------------------------------------------------	
 
-### Video 271
+### Video 221
 
 Video thumbnail:	Game Theory - Randomized Strategies - Worked Example
 06:46	
-Game Theory - Randomized Strategies - Worked Example	
-StatsResource.github.io | Game Theory | Randomized Strategies | Worked Example Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
-May 26, 2021	
+
+* Game Theory - Randomized Strategies - Worked Example	
+* StatsResource.github.io | Game Theory | Randomized Strategies 
+* Worked Example Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+* Published: May 26, 2021	
 
 -------------------------------------------------------------------	
 
-### Video 272
+### Video 222
 
 Video thumbnail:	Random Number Generation  - Introductory Concepts
 09:34	
@@ -207,6 +217,7 @@ StatsResource.github.io | Random Number Generation | Introductory Concepts Stati
 Jun 1, 2021	
 
 -------------------------------------------------------------------	
+
 10	
 	
 Video thumbnail:	Decision Theory: Minimax & Bayes Criteria (Worked Examples)
@@ -217,7 +228,7 @@ Jun 2, 2021
 
 -------------------------------------------------------------------	
 
-### Video 274
+### Video 224
 
 Video thumbnail:	Weibull Distribution: Determining Parameters
 10:50	
@@ -227,24 +238,27 @@ Jun 3, 2021
 
 -------------------------------------------------------------------	
 
-### Video 275
+### Video 225
 
 Video thumbnail:	Generalized Linear Models - Introductory Definitions
 03:54	
 Generalized Linear Models - Introductory Definitions	
 StatsResource.github.io | Generalized Linear Models | Introduction Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Jun 4, 2021	
+
 -------------------------------------------------------------------	
-51	
+
+### Video 226	
 	
 Video thumbnail:	Pareto II Distribution - Actuarial Applications - Expectation of Variable over a Threshold (Part B)
 09:38	
 Pareto II Distribution - Actuarial Applications - Expectation of Variable over a Threshold (Part B)	
 StatsResource.github.io | Probability Distributions | Pareto Type II Distribution | Actuarial Applications Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
-Jun 5, 2021	
+Jun 5, 2021
+	
 -------------------------------------------------------------------	
 
-### Video 277
+### Video 227
 
 Video thumbnail:	Pareto II Distribution - Actuarial Applications - Expectation of Variable over a Threshold (Part A)
 07:07	
@@ -261,7 +275,7 @@ StatsResource.github.io | Random Number Generation | Algorithms Statistics and P
 Jun 6, 2021	
 -------------------------------------------------------------------	
 
-### Video 279
+### Video 229
 
 Video thumbnail:	Decision Theory - Loss Functions (Minimax & Bayes Criteria)
 05:23	
@@ -278,7 +292,7 @@ StatsResource.github.io | Decision Theory | Decision Criteria Statistics and Pro
 Jun 10, 2021	
 -------------------------------------------------------------------	
 
-### Video 281
+### Video 231
 
 Video thumbnail:	Lognormal Distribution -  Method of Moments and Percentiles
 11:53	
@@ -287,7 +301,7 @@ StatsResource.github.io | Probability Distributions | The Lognormal Distribution
 Jun 20, 2021	
 -------------------------------------------------------------------	
 
-### Video 282
+### Video 232
 
 Video thumbnail:	Decision Theory: Loss Functions & Bayes Criterion (Worked Example 3)
 08:51	
@@ -307,7 +321,7 @@ Jun 22, 2021
 
 -------------------------------------------------------------------	
 
-### Video 284
+### Video 234
 
 Video thumbnail:	Random Number Generation - Worked Example
 11:53	
@@ -317,7 +331,7 @@ Jun 25, 2021
 
 -------------------------------------------------------------------	
 
-### Video 285
+### Video 235
 
 	
 Video thumbnail:	Statistical Games - Short Theory Question
@@ -328,7 +342,7 @@ Jun 27, 2021
 
 -------------------------------------------------------------------	
 
-### Video 286	
+### Video 236	
 	
 Video thumbnail:	Decision Theory Loss Functions Bayes Criterion (Worked Example)
 05:31	
@@ -338,7 +352,7 @@ Jun 28, 2021
 
 -------------------------------------------------------------------	
 
-### Video 287
+### Video 237
 
 Video thumbnail:	Pearson Correlation Coefficient
 09:17	
@@ -357,7 +371,7 @@ Jul 4, 2021
 
 -------------------------------------------------------------------	
 
-### Video 289
+### Video 239
 
 Video thumbnail:	The Binomial Distribution
 11:27	
@@ -367,7 +381,7 @@ Jul 11, 2021
 
 -------------------------------------------------------------------	
 
-### Video 290
+### Video 240
 	
 Video thumbnail:	Binomal Distribution  - Derivation of Expected Value
 15:53	
@@ -377,16 +391,19 @@ Jul 18, 2021
 
 -------------------------------------------------------------------	
 
-### Video 291
+### Video 241
 	
+Stochastic Process Short Definitions Question
+
 Video thumbnail:	Stochastic Process   Short Definitions  Question
-02:21	
-Stochastic Process Short Definitions Question	
+* Runlength: 02:21	
+	
 StatsResource.github.io | Stochastic Processes | Introduction Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Jul 18, 2021	
 
 -------------------------------------------------------------------	
-87	
+
+### Video 242
 	
 Video thumbnail:	Binomial Distribution Defective Resistors
 10:02	
@@ -396,7 +413,7 @@ Jul 18, 2021
 
 -------------------------------------------------------------------	
 
-### Video 293
+### Video 243
 	
 Video thumbnail:	Introducing Dispersion - Variance and Standard Deviation
 05:47	
@@ -406,6 +423,8 @@ Jul 18, 2021
 
 -------------------------------------------------------------------	
 
+### Video 244
+
 Video thumbnail:	Spearman Rank correlation (no tied ranks)
 04:50	
 Spearman Rank correlation (no tied ranks)	
@@ -414,7 +433,7 @@ Jul 25, 2021
 
 -------------------------------------------------------------------	
 
-### Video 295
+### Video 245
 
 Video thumbnail:	Deterministic vs Stochastic Models (Short Theory Question)
 03:13	
@@ -432,7 +451,7 @@ Aug 1, 2021
 
 -------------------------------------------------------------------	
 
-### Video 297
+### Video 247
 	
 Video thumbnail:	Poisson Distribution - Worked Example
 04:42	
@@ -442,6 +461,7 @@ Aug 1, 2021
 
 -------------------------------------------------------------------	
 
+### Video 248
 	
 Video thumbnail:	Normal Distribution - The Complement Rule
 03:16	
@@ -451,7 +471,9 @@ Aug 1, 2021
 
 -------------------------------------------------------------------	
 
-### Video 299
+### Video 249
+
+Confidence Interval for Proportions
 	
 Video thumbnail:	Confidence Interval for Proportions
 05:05	
@@ -461,11 +483,13 @@ Aug 8, 2021
 
 -------------------------------------------------------------------	
 
-### Video 300
+### Video 250
+
+Discrete Random Variables (Probability)	
 
 Video thumbnail:	Discrete Random Variables (Probability)
 05:58	
-Discrete Random Variables (Probability)	
+
 StatsResource.github.io - Probability - Discrete Random Variables Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Aug 8, 2021
 
