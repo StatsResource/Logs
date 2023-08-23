@@ -1,3 +1,164 @@
+Video thumbnail:	The Coefficient of Determination
+02:30	
+The Coefficient of Determination	
+StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics How to interpret the coefficient of determination.	
+Aug 15, 2021	
+-------------------------------------------------------	
+
+### Video 252
+
+Video thumbnail:	Summary Statistics - Five Number summary, IQR, Fences, Midhinge and Trimean
+06:49	
+Summary Statistics - Five Number summary, IQR, Fences, Midhinge and Trimean	
+StatsResource.github.io Statistics and Probability Tutorial Videos 
+- Worked Examples and Demonstrations about Statistics Introduction to the Five Number summary, IQR, Fences, Midhinge and Trimean	
+Aug 15, 2021	
+-------------------------------------------------------	
+81	
+
+Video thumbnail:	Using Probability Trees  - Example 2
+03:22	
+Using Probability Trees - Example 2	
+StatsResource.github.io - Probability Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Aug 22, 2021	
+-------------------------------------------------------	
+
+### Video 254
+	
+Video thumbnail:	Descriptive Statistics - Introducing Dispersion
+05:47	
+Descriptive Statistics - Introducing Dispersion	
+StatsResource.github.io - Descriptive Statistics - Introducing Dispersion Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Aug 22, 2021	
+-------------------------------------------------------	
+11	
+	
+Video thumbnail:	Conditional Probability (Introduction to Probability)
+06:42	
+Conditional Probability (Introduction to Probability)	
+StatsResource.github.io - Introduction to Probability - Conditional Probability Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Aug 29, 2021	
+-------------------------------------------------------	
+
+### Video 256	
+	
+Video thumbnail:	Probability Functions -  Exercise 1
+08:46	
+Probability Functions - Exercise 1	
+StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Aug 29, 2021	
+-------------------------------------------------------	
+31	
+	
+Video thumbnail:	Probability Table - Part 1
+06:02	
+Probability Table - Part 1	
+StatsResource.github.io Statistics and Probabiltiy Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Sep 5, 2021	
+-------------------------------------------------------	
+
+### Video 258	
+	
+Video thumbnail:	Probability Functions -  Worked Example  2
+08:29	
+Probability Functions - Worked Example 2	
+StatsResource.github.io - Random Variables Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Sep 5, 2021	
+-------------------------------------------------------	
+15	
+	
+Video thumbnail:	Probability Table - Part 2
+05:45	
+Probability Table - Part 2	
+StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Sep 5, 2021	
+-------------------------------------------------------	
+
+### Video 260	
+	
+Video thumbnail:	Summations for Regression
+06:48	
+Summations for Regression	
+StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Sep 5, 2021	
+-------------------------------------------------------	
+12	
+	
+Video thumbnail:	Probability Trees  - Worked Example 1
+03:29	
+Probability Trees - Worked Example 1	
+StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Sep 12, 2021	
+-------------------------------------------------------	
+
+### Video 262	
+	
+Video thumbnail:	Probability - Independent Events
+04:30	
+Probability - Independent Events	
+StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Sep 12, 2021	
+-------------------------------------------------------	
+
+### Video 261
+
+Video thumbnail:	Reliability Analysis: Survival Functions Worked Example 1
+10:44	
+Reliability Analysis: Survival Functions Worked Example 1	
+StatsResource.github.io | Special Topics | Reliability Analysis Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics SR -03023	
+Jan 1, 2022	
+
+-------------------------------------------------------	
+
+### Video 264	
+	
+Video thumbnail:	Reliability Analysis: Survival Functions - Worked Example
+13:33	
+Reliability Analysis: Survival Functions - Worked Example	
+StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics SR 03024	
+Jan 1, 2022	
+
+-------------------------------------------------------	
+
+### Video 265	
+
+Video thumbnail:	Reliability Analysis: Survival Functions - Deriving the Pareto Mean
+05:36	
+Reliability Analysis: Survival Functions - Deriving the Pareto Mean	
+StatsResource.github.io | Reliability Analysis | Survival Functions Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Jan 1, 2022
+	
+-------------------------------------------------------	
+
+### Video 266	
+
+Video thumbnail:	Reliability Analysis: Survival Functions - Worked Example
+07:20	
+Reliability Analysis: Survival Functions - Worked Example	
+StatsResource.github.io | Reliability Analysis | Survival Functions Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics SR-3026	
+Jan 1, 2022	
+
+-------------------------------------------------------	
+
+### Video 267	
+	
+Video thumbnail:	Reliability Analysis: Survival Functions - Worked Example
+11:24	
+Reliability Analysis: Survival Functions - Worked Example	
+StatsResource.github.io | Reliability Analysis | Survival Functions Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics and Probability. SR-03027	
+Jan 3, 2022	
+
+-------------------------------------------------------	
+
+### Video 268	
+	
+Video thumbnail:	Pareto Type I Distribution - Worked Example (Calculate the IQR)
+06:28	
+Pareto Type I Distribution - Worked Example (Calculate the IQR)	
+StatsResource.github.io | Probability Distributions | Pareto Type I Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+Jan 3, 2022	
+
+
 
 ------------------------------------------------------------------------------
 
