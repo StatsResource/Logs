@@ -3,6 +3,7 @@ Video thumbnail:	The Coefficient of Determination
 The Coefficient of Determination	
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics How to interpret the coefficient of determination.	
 Aug 15, 2021	
+
 -------------------------------------------------------	
 
 ### Video 252
@@ -12,7 +13,8 @@ Video thumbnail:	Summary Statistics - Five Number summary, IQR, Fences, Midhinge
 Summary Statistics - Five Number summary, IQR, Fences, Midhinge and Trimean	
 StatsResource.github.io Statistics and Probability Tutorial Videos 
 - Worked Examples and Demonstrations about Statistics Introduction to the Five Number summary, IQR, Fences, Midhinge and Trimean	
-Aug 15, 2021	
+Aug 15, 2021
+
 -------------------------------------------------------	
 81	
 
@@ -21,6 +23,7 @@ Video thumbnail:	Using Probability Trees  - Example 2
 Using Probability Trees - Example 2	
 StatsResource.github.io - Probability Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Aug 22, 2021	
+
 -------------------------------------------------------	
 
 ### Video 254
@@ -30,7 +33,9 @@ Video thumbnail:	Descriptive Statistics - Introducing Dispersion
 Descriptive Statistics - Introducing Dispersion	
 StatsResource.github.io - Descriptive Statistics - Introducing Dispersion Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Aug 22, 2021	
+
 -------------------------------------------------------	
+
 11	
 	
 Video thumbnail:	Conditional Probability (Introduction to Probability)
@@ -38,6 +43,7 @@ Video thumbnail:	Conditional Probability (Introduction to Probability)
 Conditional Probability (Introduction to Probability)	
 StatsResource.github.io - Introduction to Probability - Conditional Probability Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Aug 29, 2021	
+
 -------------------------------------------------------	
 
 ### Video 256	
@@ -47,7 +53,9 @@ Video thumbnail:	Probability Functions -  Exercise 1
 Probability Functions - Exercise 1	
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Aug 29, 2021	
+
 -------------------------------------------------------	
+
 31	
 	
 Video thumbnail:	Probability Table - Part 1
@@ -55,6 +63,7 @@ Video thumbnail:	Probability Table - Part 1
 Probability Table - Part 1	
 StatsResource.github.io Statistics and Probabiltiy Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Sep 5, 2021	
+
 -------------------------------------------------------	
 
 ### Video 258	
@@ -64,7 +73,9 @@ Video thumbnail:	Probability Functions -  Worked Example  2
 Probability Functions - Worked Example 2	
 StatsResource.github.io - Random Variables Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Sep 5, 2021	
+
 -------------------------------------------------------	
+
 15	
 	
 Video thumbnail:	Probability Table - Part 2
@@ -72,6 +83,7 @@ Video thumbnail:	Probability Table - Part 2
 Probability Table - Part 2	
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Sep 5, 2021	
+
 -------------------------------------------------------	
 
 ### Video 260	
@@ -81,7 +93,9 @@ Video thumbnail:	Summations for Regression
 Summations for Regression	
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Sep 5, 2021	
+
 -------------------------------------------------------	
+
 12	
 	
 Video thumbnail:	Probability Trees  - Worked Example 1
@@ -89,6 +103,7 @@ Video thumbnail:	Probability Trees  - Worked Example 1
 Probability Trees - Worked Example 1	
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Sep 12, 2021	
+
 -------------------------------------------------------	
 
 ### Video 262	
@@ -98,6 +113,7 @@ Video thumbnail:	Probability - Independent Events
 Probability - Independent Events	
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Sep 12, 2021	
+
 -------------------------------------------------------	
 
 ### Video 261
