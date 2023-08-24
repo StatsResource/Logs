@@ -19,14 +19,11 @@ Mixed Probability Distributions - Worked Example
 
 Aug 3, 2020	
 	
-	
 StatsResource.github.io | Probability Distributions | Advanced Topics | Mixed Probability Distributions	
 	
-* Runlength: 05:36	
-
-100.00%	
-1	
-736	
+* Runlength: 05:36
+* https://youtu.be/24PPecNK7NI
+* MixedProb-ASI-CT3-2010-May-Q6.mp4
 
 --------------------------------------------------------
 
@@ -38,10 +35,7 @@ Aug 11, 2020
 StatsResource.github.io | Inference Procedures | Testing Model Assumptions	
 Dixon Q Test for Outliers	
 * Runlength: 12:36	
-16 likes	
-88.90%	
-2	
-1,878	
+
 
 --------------------------------------------------------
 
@@ -55,9 +49,7 @@ Aug 11, 2020
 StatsResource.github.io | Inference Procedures | Testing Model Assumptions	
 
 * Runlength: 05:40	
-–	
-0	
-15	
+	
 --------------------------------------------------------
 
 Sep 17, 2020	
@@ -75,11 +67,14 @@ Sep 17, 2020
 	
 StatsResource.github.io | Probability | Random Variables | Continuous Random Variables - Worked Examples	
 Continuous Random Variables - Conditional Probability Worked Example	
-* Runlength: 04:46	
-–	
-0	
-19	
+* Runlength: 04:46
+* https://youtu.be/uaYXtM0lHRY
+* FIA-ct101-2002-Sept-Q3
+  
 --------------------------------------------------------
+
+### Video 107
+
 Sep 17, 2020	
 	
 	
@@ -87,18 +82,20 @@ StatsResource.github.io | Normal Distribution | Central Limit Theorem - Worked E
 Central Limit Theorem & Normal Distribution - Worked Example	
 * Runlength: 04:43	
 
-17	
-
 --------------------------------------------------------
 
 ### Video 108
 
+Joint Distribution of Random Variables  - Health Science Example
+
 Sep 17, 2020	
 	
 	
-StatsResource.github.io | Probability | Random Variables | Joint Random Variables - Worked Example	
-Joint Distribution of Random Variables - Health Science Example	
+* StatsResource.github.io | Probability | Random Variables | Joint Random Variables - Worked Example	
+* Joint Distribution of Random Variables - Health Science Example	
 * Runlength: 10:02	
+* FIA-ct3-2011-Sept-Q5
+* https://youtu.be/M6iKFS8FaLg
 
 --------------------------------------------------------
 
@@ -112,9 +109,9 @@ StatsResource.github.io | Normal Distribution | Differences and Sums of Normal R
 
 * Runlength: 05:29	
 
-59	
 
 --------------------------------------------------------
+
 ### Video 110
 
 Normal Approximation of the Binomial Distribution - Worked Example
@@ -123,23 +120,25 @@ Sep 17, 2020
 	
 	
 * StatsResource.github.io | Probability Distributions | Advanced Topics | Approximations 
-* Worked Examples Using the Normal distribution to approximate the Binomial distribution.	
-	
-* Runlength: 06:24	
+* Worked Examples Using the Normal distribution to approximate the Binomial distribution.
+* FIA-ct3-2006-April-Q2
+* https://youtu.be/olxga5ArlSs
+* Runlength: 06:24
 
 --------------------------------------------------------
-Sep 17, 2020	
-	
+
+### Video 111
+
+Counting Problems - Worked Example
 	
 StatsResource.github.io | Probability | Counting Problems - Worked Example	
-Counting Problems - Worked Example	
-04:31	
-–	
-0	
-15	
+	
+* Runlength: 04:31	
+
 --------------------------------------------------------
 
 ### Video 112
+
 Sep 18, 2020	
 	
 	
@@ -147,18 +146,18 @@ StatsResource.github.io | Probability Distributions | Binomial Distribution - Wo
 Binomial Distribution - Worked Example	
 06:00	
 –	
-0	
-8	
+	
 --------------------------------------------------------
+
+### Video 113
+
 Sep 18, 2020	
 	
 	
 StatsResource.github.io | Probability Distributions | Approximations | Worked Example	
 Normal Approximation of the Binomial Distribution - Worked Example	
 05:48	
-–	
-0	
-14	
+
 --------------------------------------------------------
 ### Video 114
 Sep 18, 2020	
@@ -167,10 +166,11 @@ Sep 18, 2020
 StatsResource.github.io | Probability Distributions | Approximations - Worked Example	
 Normal Approximation of the Binomial Distribution - Worked Example	
 04:13	
-–	
-0	
-10	
+	
 --------------------------------------------------------
+
+### Video 115
+
 Sep 18, 2020	
 	
 	
@@ -178,21 +178,21 @@ StatsResource.github.io | Inference Procedures | Confidence Intervals for Single
 Confidence Interval for a Sample Mean - Worked Example	
 05:42	
 4 likes	
-100.00%	
-0	
-117	
+
 --------------------------------------------------------
+
 ### Video 116
+
 Sep 18, 2020	
 	
 	
 StatsResource.github.io | Probability | Conditional Probability | Worked Examples	
 Conditional Probability -Worked Example ( Car and Home Insurance)	
 07:34	
-–	
-0	
-10	
+	
 --------------------------------------------------------
+
+### Video 117
 
 Sep 19, 2020	
 	
@@ -201,8 +201,7 @@ StatsResource.github.io | Inference Procedures | Confidence Intervals | Worked E
 Confidence Interval for a Sample Mean - Worked Example	
 05:27	
 –	
-0	
-17	
+	
 
 --------------------------------------------------------
 ### Video 118
@@ -298,7 +297,7 @@ Sep 21, 2020
 
 ### Video 127
 
-Video thumbnail:	Moment Generating Functions ( Expected Values ) - Worked Example
+Moment Generating Functions ( Expected Values ) - Worked Example
 04:24	
 Moment Generating Functions ( Expected Values ) - Worked Example	
 statsresource.github.io | Probability | Moment Generating Functions	
@@ -308,7 +307,7 @@ Sep 29, 2020
 
 ### Video 128
 
-Video thumbnail:	Fundamentals of Probability - Venn Diagram Worked Example
+Fundamentals of Probability - Venn Diagram Worked Example
 08:27	
 Fundamentals of Probability - Venn Diagram Worked Example	
 statsresource.github.io | Probability | Fundamentals of Probability | Venn Diagram Worked Example	
@@ -366,8 +365,8 @@ Oct 27, 2020
 
 -------------------------------------------------------------------	
 
-503	
-100.00%	
+### Video 134
+
 Video thumbnail:	Hypothesis Testing for Random Variables: Type I and Type II Errors
 06:25	
 Hypothesis Testing for Random Variables: Type I and Type II Errors	
@@ -445,22 +444,24 @@ Survival Analysis :  Kaplan Meier Estimates (Lightbulb Example)
 
 ### Video 141
 
-Survival Analysis - Nelson Aalen Estimates
-StatsResource.github.io | Survival Analysis | Nelson-Aalen Estimates 
-Video 141
-Nelson Aalen
-12:26
-https://youtu.be/kqKXdcts494
-CT4-April-2013-Q7-NelsonAalen-SurvivalAnalysis.mp4
+* Survival Analysis - Nelson Aalen Estimates
+* StatsResource.github.io | Survival Analysis | Nelson-Aalen Estimates 
+* Video 141
+* Nelson Aalen
+* 12:26
+* https://youtu.be/kqKXdcts494
+* CT4-April-2013-Q7-NelsonAalen-SurvivalAnalysis.mp4
 
 ------------------------------------------------------------------------------------
 ### Video 142
 
-Video thumbnail:	Dixon Q-Test For Outliers (Introduction to Hypothesis Testing)
+Dixon Q-Test For Outliers (Introduction to Hypothesis Testing)
 12:28	
 Dixon Q-Test For Outliers (Introduction to Hypothesis Testing)	
 StatsResource.github.io | Inference | Testing Model Assumptions & Introduction to Hypothesis Testing	
 Nov 2, 2020	
+
+------------------------------------------------------------------------------------
 
 ### Video 143
 
@@ -471,6 +472,8 @@ Normal Distribution Worked Example (The Long Jumper)
 StatsResource.github.io | Probability Distributions | Normal Distribution | Worked Examples	
 Nov 2, 2020	
 
+------------------------------------------------------------------------------------
+
 ### Video 144
 
 100.00%	
@@ -480,6 +483,8 @@ Conditional Probability: Worked Example
 StatsResource.github.io | Probability | Conditional Probability | Worked Examples	
 Nov 2, 2020	
 
+------------------------------------------------------------------------------------
+
 ### Video 145
 
 Video thumbnail:	Conditional Probability: Worked Example (Faulty Resistors)
@@ -487,6 +492,8 @@ Video thumbnail:	Conditional Probability: Worked Example (Faulty Resistors)
 Conditional Probability: Worked Example (Faulty Resistors)	
 StatsResource.github.io | Probability | Conditional Probability | Worked Example - Faulty Resistors	
 Nov 2, 2020	
+
+------------------------------------------------------------------------------------
 
 ### Video 146
 
@@ -496,6 +503,8 @@ Hypothesis test of the mean of a small sample: Worked example
 StatsResource.github.io | Inference Procedures | Hypothesis Testing | Tests of a Single Sample Mean | Worked Examples	
 Nov 2, 2020	
 Published	
+
+------------------------------------------------------------------------------------
 
 ### Video 147
 
@@ -508,19 +517,24 @@ Published
 
 ### Video 148 
 
-Video thumbnail:	Exponential Distribution Worked Example 5
+Exponential Distribution Worked Example 5
 04:06	
 Exponential Distribution Worked Example 5	
 StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples	
 Nov 3, 2020	
 Published	
-44	
-Video thumbnail:	Exponential Distribution Worked Example 4
+
+------------------------------------------------------------------------------------
+
+### Video 149
+Exponential Distribution Worked Example 4
 06:18	
 Exponential Distribution Worked Example 4	
 StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples	
 Nov 3, 2020	
 Published	
+
+------------------------------------------------------------------------------------
 
 
 ### Video 150
@@ -531,4 +545,5 @@ Exponential Distribution Worked Example 6
 StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples	
 Nov 3, 2020	
 Published	
-30	
+
+
