@@ -1,20 +1,24 @@
 ### Video 201
 
 Probabiliity - Worked Example with Venn Diagrams
-11:18	
-Probabiliity - Worked Example with Venn Diagrams	
-StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
-Nov 11, 2020	
+
+* 11:18	
+* Probabiliity - Worked Example with Venn Diagrams	
+* StatsResource.github.io Statistics and Probabilty Tutorial Videos 
+* Worked Examples and Demonstrations about Statistics	
+* Nov 11, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 202
-	
-Video thumbnail:	Conditional Probability Worked Example
-05:02	
+
 Conditional Probability Worked Example	
-StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
-Nov 11, 2020	
+
+* Conditional Probability Worked Example
+* Runlength: 05:02	
+* StatsResource.github.io Statistics and Probabilty Tutorial Videos 
+* Worked Examples and Demonstrations about Statistics	
+* Nov 11, 2020	
 
 -------------------------------------------------------------------	
 
@@ -120,9 +124,11 @@ Nov 19, 2020
 
 ### Video 213
 
+Calculation of a Posterior Distribution - Introductory Bayesian Statistics Example
+
 Video thumbnail:	Calculation of a Posterior Distribution -  Introductory Bayesian Statistics Example
 06:36	
-Calculation of a Posterior Distribution - Introductory Bayesian Statistics Example	
+	
 StatsResource.github.io | Bayesian Statistics | Introductory Examples Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 May 5, 2021
 
@@ -148,11 +154,14 @@ May 8, 2021
 
 -------------------------------------------------------------------	
 
-121	
-100.00%	
+
+### Video 216
+
+Random Number Generation : The Weibull Distribution
+
 Video thumbnail:	Random Number Generation :  The Weibull Distribution
 05:41	
-Random Number Generation : The Weibull Distribution	
+	
 May 11, 2021	
 
 -------------------------------------------------------------------	
@@ -188,7 +197,8 @@ May 20, 2021
 
 ### Video 220
 
-Video thumbnail:	Pareto Distribution : Derivation of the Median
+Pareto Distribution : Derivation of the Median
+
 06:06	
 Pareto Distribution : Derivation of the Median	
 StatsResource.github.io | Probability Distributions | Pareto (Type II) Distribution Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
@@ -218,7 +228,7 @@ Jun 1, 2021
 
 -------------------------------------------------------------------	
 
-10	
+### Video 223
 	
 Video thumbnail:	Decision Theory: Minimax & Bayes Criteria (Worked Examples)
 11:26	
@@ -265,14 +275,17 @@ Video thumbnail:	Pareto II Distribution - Actuarial Applications - Expectation o
 Pareto II Distribution - Actuarial Applications - Expectation of Variable over a Threshold (Part A)	
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Jun 5, 2021	
+
 -------------------------------------------------------------------	
-144	
-100.00%	
+
+### Video 228
+
 Video thumbnail:	Random Number Generation  - Generation Algorithms (Worked Example)
 08:06	
 Random Number Generation - Generation Algorithms (Worked Example)	
 StatsResource.github.io | Random Number Generation | Algorithms Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Jun 6, 2021	
+
 -------------------------------------------------------------------	
 
 ### Video 229
@@ -281,15 +294,17 @@ Video thumbnail:	Decision Theory - Loss Functions (Minimax & Bayes Criteria)
 05:23	
 Decision Theory - Loss Functions (Minimax & Bayes Criteria)	
 StatsResource.github.io | Decision Theory | Decision Criteria Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
-Jun 9, 2021	
+Jun 9, 2021
+
 -------------------------------------------------------------------	
-2,424	
-100.00%	
+
+
 Video thumbnail:	Decision Theory: Loss Functions & Bayes Criterion (Worked Example 2)
 05:28	
 Decision Theory: Loss Functions & Bayes Criterion (Worked Example 2)	
 StatsResource.github.io | Decision Theory | Decision Criteria Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Jun 10, 2021	
+
 -------------------------------------------------------------------	
 
 ### Video 231
@@ -299,6 +314,7 @@ Video thumbnail:	Lognormal Distribution -  Method of Moments and Percentiles
 Lognormal Distribution - Method of Moments and Percentiles	
 StatsResource.github.io | Probability Distributions | The Lognormal Distribution Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Jun 20, 2021	
+
 -------------------------------------------------------------------	
 
 ### Video 232
@@ -311,8 +327,8 @@ Jun 21, 2021
 
 -------------------------------------------------------------------	
 
-75	
-	
+### Video 233
+
 Video thumbnail:	Pareto Type II Distribution  - Insurance Policy Excess Worked Example
 08:51	
 Pareto Type II Distribution - Insurance Policy Excess Worked Example	
