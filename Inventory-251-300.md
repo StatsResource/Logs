@@ -1,28 +1,30 @@
-Video thumbnail:	The Coefficient of Determination
-02:30	
-The Coefficient of Determination	
-StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics How to interpret the coefficient of determination.	
-Aug 15, 2021	
+### Video 251	
+* The Coefficient of Determination
+* 02:30	
+* The Coefficient of Determination	
+* StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics * How to interpret the coefficient of determination.	
+* Aug 15, 2021	
 
 -------------------------------------------------------	
 
 ### Video 252
 
-Video thumbnail:	Summary Statistics - Five Number summary, IQR, Fences, Midhinge and Trimean
-06:49	
-Summary Statistics - Five Number summary, IQR, Fences, Midhinge and Trimean	
-StatsResource.github.io Statistics and Probability Tutorial Videos 
-- Worked Examples and Demonstrations about Statistics Introduction to the Five Number summary, IQR, Fences, Midhinge and Trimean	
-Aug 15, 2021
+* Summary Statistics - Five Number summary, IQR, Fences, Midhinge and Trimean
+* 06:49	
+* Summary Statistics - Five Number summary, IQR, Fences, Midhinge and Trimean	
+* StatsResource.github.io Statistics and Probability Tutorial Videos 
+* Worked Examples and Demonstrations about Statistics Introduction to the Five Number summary, IQR, Fences, Midhinge and Trimean	
+* Aug 15, 2021
 
 -------------------------------------------------------	
-81	
 
-Video thumbnail:	Using Probability Trees  - Example 2
-03:22	
-Using Probability Trees - Example 2	
-StatsResource.github.io - Probability Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
-Aug 22, 2021	
+### Video 253
+
+* Video thumbnail:	Using Probability Trees  - Example 2
+* 03:22	
+* Using Probability Trees - Example 2	
+* StatsResource.github.io - Probability Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+* Aug 22, 2021	
 
 -------------------------------------------------------	
 
@@ -36,7 +38,7 @@ Aug 22, 2021
 
 -------------------------------------------------------	
 
-11	
+### Video 255	
 	
 Video thumbnail:	Conditional Probability (Introduction to Probability)
 06:42	
@@ -56,7 +58,7 @@ Aug 29, 2021
 
 -------------------------------------------------------	
 
-31	
+### Video 257
 	
 Video thumbnail:	Probability Table - Part 1
 06:02	
@@ -76,7 +78,7 @@ Sep 5, 2021
 
 -------------------------------------------------------	
 
-15	
+### Video 259	
 	
 Video thumbnail:	Probability Table - Part 2
 05:45	
@@ -96,7 +98,7 @@ Sep 5, 2021
 
 -------------------------------------------------------	
 
-12	
+### Video 261
 	
 Video thumbnail:	Probability Trees  - Worked Example 1
 03:29	
@@ -116,7 +118,7 @@ Sep 12, 2021
 
 -------------------------------------------------------	
 
-### Video 261
+### Video 263
 
 Video thumbnail:	Reliability Analysis: Survival Functions Worked Example 1
 10:44	
@@ -158,11 +160,12 @@ Jan 1, 2022
 
 ### Video 267	
 	
-Video thumbnail:	Reliability Analysis: Survival Functions - Worked Example
-11:24	
-Reliability Analysis: Survival Functions - Worked Example	
-StatsResource.github.io | Reliability Analysis | Survival Functions Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics and Probability. SR-03027	
-Jan 3, 2022	
+* Reliability Analysis: Survival Functions - Worked Example
+* 11:24	
+* Reliability Analysis: Survival Functions - Worked Example	
+* StatsResource.github.io | Reliability Analysis | Survival Functions Statistics and Probability Tutorial Videos
+* Worked Examples and Demonstrations about Statistics and Probability. SR-03027	
+* Jan 3, 2022	
 
 -------------------------------------------------------	
 
@@ -180,7 +183,7 @@ Jan 3, 2022
 
 ### Video 269 
 
-Pareto Type II Distribution - Worked Examples (Method Of Moments)
+<b>Pareto Type II Distribution - Worked Examples (Method Of Moments)</b>
 
 Jan 3, 2022
 
@@ -200,26 +203,20 @@ Jan 3, 2022
 StatsResource.github.io | Probability Distributions | Pareto Type II Distribution Statistics and Probability Tutorial Videos 
 * Worked Examples and Demonstrations about Statistics and Probability Distributions. 
 Worked examples feature examples from Actuarial Science and Financial Mathematics. 
-SR -03030
-
-
+* SR -03030
 * Runlength: 05:15
- Pareto Type II Distribution - Worked Example (Mean Excess Loss)
+* Pareto Type II Distribution - Worked Example (Mean Excess Loss)
 
 ------------------------------------------------------------------------------
 
 ### Video 273
 
-Pareto Type II  Distribution - Calculating Value At Risk
-Jan 3, 2022
+* Pareto Type II  Distribution - Calculating Value At Risk
+* Jan 3, 2022
 
 StatsResource.github.io | Probability Distributions | Pareto Type II Statistics and Probability Tutorial Videos * Worked Examples and Demonstrations about Statistics SR -03031
-Pareto Type II Distribution - Calculating Value At Risk
+* Pareto Type II Distribution - Calculating Value At Risk
 * Runlength: 03:58
-
-4 likes
-
-
 
 ------------------------------------------------------------------------------
 
@@ -236,7 +233,8 @@ StatsResource.github.io | Probability Distributions | Pareto Type II Statistics 
  Pareto Type II Distribution - Calculating the Tail Value At Risk
 
 ------------------------------------------------------------------------------
-Jan 4, 2022
+
+### Video 275
 
 
 StatsResource.github.io | Probability Distributions | Pareto Type II Statistics and Probability Tutorial Videos * Worked Examples and Demonstrations about Statistics SR-03033
@@ -245,20 +243,21 @@ Pareto Type II Distribution - Calculating the Average Cost Per Claim given a Ded
  Pareto Type II Distribution - Calculating the Average Cost Per Claim given a Deductible
 
 ------------------------------------------------------------------------------
+
 ### Video 276
-Jan 4, 2022
 
+* Jan 4, 2022
+* StatsResource.github.io | Probability Distributions | Pareto Type I Statistics and Probability Tutorial Videos
+* Worked Examples and Demonstrations about Statistics and Probability SR 03034
+* Pareto Type I Distribution: Calculating the Limited Expectation Value of an Insurance Claim
+* 11:48
+* Pareto Type I Distribution: Calculating the Limited Expectation Value of an Insurance Claim
 
-StatsResource.github.io | Probability Distributions | Pareto Type I Statistics and Probability Tutorial Videos * Worked Examples and Demonstrations about Statistics and Probability SR 03034
-Pareto Type I Distribution: Calculating the Limited Expectation Value of an Insurance Claim
-11:48
- Pareto Type I Distribution: Calculating the Limited Expectation Value of an Insurance Claim
-–
-0
-282
 ------------------------------------------------------------------------------
-Jan 4, 2022
 
+### Video 277
+
+Jan 4, 2022
 
 StatsResource.github.io | Probability Distributions | Pareto Type I Statistics and Probability Tutorial Videos 
 * Worked Examples and Demonstrations about Statistics SR 03035
@@ -267,7 +266,9 @@ Pareto Type I Distribution - Calculate Value at Risk (VaR)
  Pareto Type I Distribution - Calculate Value at Risk (VaR)
 
 ------------------------------------------------------------------------------
+
 ### Video 278
+
 Jan 4, 2022
 
 
@@ -278,8 +279,10 @@ Pareto Type II Distribution - Limited Expectation For a Mixture of Distributions
  Pareto Type II Distribution - Limited Expectation For a Mixture of Distributions
 
 ------------------------------------------------------------------------------
-Jan 4, 2022
 
+### Video 279
+
+Jan 4, 2022
 
 StatsResource.github.io | Probability Distributions | Pareto Type I Statistics and Probability Tutorial Videos 
 * Worked Examples and Demonstrations about Statistics SR 3038
@@ -302,6 +305,9 @@ Negative Binomial Distribution Worked Example
 06:59
 
 ------------------------------------------------------------------------------
+
+### Video 281
+
 Jan 5, 2022
 
 
@@ -323,19 +329,19 @@ Gamma Distribution Deriving the Harmonic Mean and Mode
  Gamma Distribution Deriving the Harmonic Mean and Mode
 
 ------------------------------------------------------------------------------
-Jan 5, 2022
 
+### Video 283
 
-StatsResource.github.io Statistics and Probability Tutorial Videos * Worked Examples and Demonstrations about Statistics and Probability SR-03042
-Gamma Distribution - Sum of Gamma Variates & Cumulant Generating Functions
-08:25
- Gamma Distribution - Sum of Gamma Variates & Cumulant Generating Functions
-3 likes
+* Jan 5, 2022
+* StatsResource.github.io Statistics and Probability Tutorial Videos * Worked Examples and Demonstrations about Statistics and Probability SR-03042
+* Gamma Distribution - Sum of Gamma Variates & Cumulant Generating Functions
+* 08:25
+*  Gamma Distribution - Sum of Gamma Variates & Cumulant Generating Functions
 
-0
-341
 ------------------------------------------------------------------------------
+
 ### Video 284
+
 Jan 5, 2022
 
 
@@ -343,10 +349,10 @@ StatsResource.github.io | Probability Distributions | Gamma Distribution Statist
 Gamma Distribution - Deriving the Moment Generating Function and the Raw Moments
 09:15
  Gamma Distribution - Deriving the Moment Generating Function and the Raw Moments
-–
-0
-40
+
 ------------------------------------------------------------------------------
+
+### Video 285
 Jan 5, 2022
 
 
@@ -354,10 +360,9 @@ StatsResource.github.io | Probability Distribution | Beta Type I Statistics and 
 Beta Type I Distribution - Derive the Mean and Variance
 13:24
  Beta Type I Distribution - Derive the Mean and Variance
-–
-0
-21
+
 ------------------------------------------------------------------------------
+
 ### Video 286
 Jan 5, 2022
 
@@ -366,23 +371,20 @@ StatsResource.github.io | Probability Distributions | Beta Type I Distribution S
 Beta Type I Distribution - Derive the Harmonic Mean and Mode
 14:21
  Beta Type I Distribution - Derive the Harmonic Mean and Mode
-–
-0
-33
+
 ------------------------------------------------------------------------------
-Jan 5, 2022
 
+### Video 287
 
-StatsResource.github.io | Probability Distribution | Beta Type I Distribution Statistics and Probabilty Tutorial Videos * Worked Examples and Demonstrations about Statistics SR-03047
-Beta Type I Distribution - Worked Example 2
-09:22
- Beta Type I Distribution - Worked Example 2
-2 likes
+* Jan 5, 2022
+* StatsResource.github.io | Probability Distribution | Beta Type I Distribution Statistics and Probabilty Tutorial Videos * Worked Examples and Demonstrations about Statistics SR-03047
+* Beta Type I Distribution - Worked Example 2
+* 09:22
+* Beta Type I Distribution - Worked Example 2
 
-0
-28
 ------------------------------------------------------------------------------
 ### Video 288
+
 Jan 5, 2022
 
 
@@ -390,10 +392,9 @@ StatsResource.github.io | Probability Distributions | Beta Type II Statistics an
 Beta Type II Distribution Derivation of Mean
 12:23
  Beta Type II Distribution Derivation of Mean
-–
-0
-25
+
 ------------------------------------------------------------------------------
+### Video 289
 Jan 5, 2022
 
 
@@ -403,9 +404,9 @@ Beta Type II Distribution - Derive the Harmonic Mean and Mode
  Beta Type II Distribution - Derive the Harmonic Mean and Mode
 1 like
 
-0
-10
+
 ------------------------------------------------------------------------------
+
 ### Video 290
 Jan 5, 2022
 
@@ -414,11 +415,11 @@ StatsResource.github.io | Probability Distributions | The Beta Function Statisti
 The Beta Function: Re-expressing The Beta Function
 08:42
  The Beta Function: Re-expressing The Beta Function
-7 likes
-87.50%
-0
-1,154
+
 ------------------------------------------------------------------------------
+
+### Video 291
+
 Jan 7, 2022
 
 
@@ -428,8 +429,7 @@ Markov Chains: Reducibility and Periodicity
  Markov Chains: Reducibility and Periodicity
 3 likes
 
-0
-536
+
 ------------------------------------------------------------------------------
 ### Video 292
 Jan 7, 2022
@@ -441,9 +441,10 @@ Markov Chains: Periodicity and Reducibility
  Markov Chains: Periodicity and Reducibility
 1 like
 
-0
-205
+
 ------------------------------------------------------------------------------
+### Video 293
+
 Jan 7, 2022
 
 
@@ -451,11 +452,11 @@ StatsResource.github.io | Stochastic Processes | Markov Chains Statistics and Pr
 Markov Chains Definitions , Periodicity and Irreducibility
 05:14
  Markov Chains   Definitions , Periodicity and Irreducibility
-–
-0
-18
+
 ------------------------------------------------------------------------------
+
 ### Video 294
+
 Jan 7, 2022
 
 
@@ -463,11 +464,9 @@ StatsResource.github.io | Probability Distributions | The Beta Distribution Stat
 Beta Function - Worked Example
 04:41
  Beta Function  - Worked Example
-2 likes
 
-0
-27
 ------------------------------------------------------------------------------
+### Video 295
 Jan 7, 2022
 
 
@@ -475,10 +474,9 @@ StatsResource.github.io | Probability Distributions | Binomial Distribution Stat
 Binomial Distribution - Worked Example using Statistical Tables
 06:16
  Binomial Distribution - Worked Example using Statistical Tables
-–
-0
-19
+
 ------------------------------------------------------------------------------
+
 ### Video 296
 Jan 7, 2022
 
@@ -487,10 +485,10 @@ StatsResource.github.io - Binomial Distribution Statistics and Probabilty Tutori
 Binomial Distribution - Worked Example using Statistical Tables
 06:29
  Binomial Distribution - Worked Example using Statistical Tables
-–
-0
-19
+
 ------------------------------------------------------------------------------
+
+### Video 297
 Jan 7, 2022
 
 
@@ -498,9 +496,7 @@ StatsResource.github.io | Stochastic Processes | Markov Chains Statistics and Pr
 Markov Chains - Transition plots
 07:04
  Markov Chains - Transition plots
-–
-0
-20
+
 ------------------------------------------------------------------------------
 ### Video 298
 Jan 7, 2022
