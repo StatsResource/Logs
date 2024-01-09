@@ -1,30 +1,41 @@
+### Video 151
+
 Video thumbnail:	Exponential Distribution Worked Example 7
 07:45	
 Exponential Distribution Worked Example 7	
 StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples	
 Nov 3, 2020	
 -------------------------------------------------------------------	
-26	
+
+### Video 152
+
 Video thumbnail:	Standard Errors for Inference Procedures for Single Sample Proportions
 11:54	
 Standard Errors for Inference Procedures for Single Sample Proportions	
 StatsResource.github.io | Inference Procedures | Confidence Intervals | Single Sample Proportions	
 Nov 4, 2020	
+
 -------------------------------------------------------------------	
-14	
+### Video 153
+
 Video thumbnail:	Exponential Distribution Worked Example 10
 07:47	
 Exponential Distribution Worked Example 10	
 StatsResource.github.io | Probability Distributions | Continuous Distributions | The Exponential Distribution - Worked Examples	
 Nov 4, 2020	
 -------------------------------------------------------------------	
-32	
+
+### Video 154
 Video thumbnail:	Poisson Distribution Worked Example  (Using Tables)
 09:02	
 Poisson Distribution Worked Example (Using Tables)	
 StatsResource.github.io | Probability Distributions | Poisson Distribution Worked Example Using Tables	
 Nov 4, 2020	
+
 -------------------------------------------------------------------	
+
+### Video 155
+
 2,439	
 1	
 95.50%	
@@ -34,85 +45,103 @@ Poisson Distribution: Worked Example 2
 StatsResource.github.io | Probability Distributions | Poisson Distribution - Worked Examples	
 Nov 5, 2020	
 -------------------------------------------------------------------	
-16	
-100.00%	
+
+### Video 156
+
 Video thumbnail:	Poisson Distribution: Worked Example 3
 04:12	
 Poisson Distribution: Worked Example 3	
 StatsResource.github.io | Probability Distributions | Poisson Distribution | Worked Examples	
 Nov 5, 2020	
 -------------------------------------------------------------------	
-20	
+
+### Video 157
+
 Video thumbnail:	Difference in Proportions  - Hypothesis Test Worked Example 1 (Seatbelts)
 14:51	
 Difference in Proportions - Hypothesis Test Worked Example 1 (Seatbelts)	
 StatsResource.github.io | Inference Procedures | Difference in Proportions | Hypothesis Tests | Worked Examples	
 Nov 6, 2020	
 -------------------------------------------------------------------	
-8	
+
+### Video 158
 Video thumbnail:	Difference in Proportions - Hypothesis Test Worked Example 2
 10:35	
 Difference in Proportions - Hypothesis Test Worked Example 2	
 StatsResource.github.io	
 Nov 6, 2020	
 -------------------------------------------------------------------	
-8	
+
+### Video 159
 Video thumbnail:	Difference in Means - Hypothesis Test Worked Example 1
 08:13	
 Difference in Means - Hypothesis Test Worked Example 1	
 StatsResource.github.io | Inference Procedures | Difference in Means | Hypothesis Testing	
 Nov 6, 2020	
 -------------------------------------------------------------------	
-8	
+
+### Video 160
 Video thumbnail:	Difference In Proportions - Hypothesis Testing Worked Example 4
 09:07	
 Difference In Proportions - Hypothesis Testing Worked Example 4	
 StatsResource.github.io | Inference Procedures | Difference in Proportions | Hypothesis Testing	
 Nov 6, 2020	
 -------------------------------------------------------------------	
-11	
+
+### Video 161
 Video thumbnail:	Difference In Means - Hypothesis Testing Worked Example 3
 09:02	
 Difference In Means - Hypothesis Testing Worked Example 3	
 StatsResource.github.io | Inference Procedures | Difference in Means | Hypothesis Testing	
 Nov 7, 2020	
 -------------------------------------------------------------------	
-9	
+
+### Video 162
 Video thumbnail:	Difference In Means - Hypothesis Testing Worked Example 2
 11:05	
 Difference In Means - Hypothesis Testing Worked Example 2	
 StatsResource.github.io | Inference Procedures | Difference in Means | Hypothesis Testing	
 Nov 7, 2020	
 -------------------------------------------------------------------	
-8	
+
+### Video 163
 Video thumbnail:	Difference In Means - Hypothesis Testing Worked Example 4
 08:40	
 Difference In Means - Hypothesis Testing Worked Example 4	
 StatsResource.github.io | Inference Procedures | Difference in Means | Hypothesis Testing	
 Nov 7, 2020	
 -------------------------------------------------------------------	
-7	
+
+### Video 164
 Video thumbnail:	Accuracy Precision Recall & the F-Measure - Worked Examples
 11:57	
 Accuracy Precision Recall & the F-Measure - Worked Examples	
 StatsResource.github.io | Special Topics | Binary Classification Procedures Accuracy Precision Recall & the F-Measure - Worked Examples	
 Nov 7, 2020	
 -------------------------------------------------------------------	
-589	
+
+### Video 165
 100.00%	
 Video thumbnail:	Conditional Probability - Hard Drives Worked Example
 06:21	
 Conditional Probability - Hard Drives Worked Example	
 StatsResource.github.io | Probability | Conditional Probability | Worked Examples Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations.	
 Nov 8, 2020	
+
 -------------------------------------------------------------------	
-10	
+
+### Video 166
+
 Video thumbnail:	Entropy Calculations  In Information Theory (Maximum Entropy)
 09:06	
 Entropy Calculations In Information Theory (Maximum Entropy)	
 StatsResource.github.io | Information Theory | Entropy Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 10, 2020	
+
 -------------------------------------------------------------------	
+
+### Video 167
+
 1,575	
 1	
 95.80%	
@@ -121,45 +150,58 @@ Video thumbnail:	Confidence Intervals for Proportions - Worked Example 1
 Confidence Intervals for Proportions - Worked Example 1	
 StatsResource.github.io | Inference Procedures | Confidence Intervals for Proportions - Worked Examples Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 10, 2020	
+
 -------------------------------------------------------------------	
-5	
+
+### Video 168
+
 Video thumbnail:	Confidence Intervals for Proportions - Worked Example 2 (Household Damage(
 05:54	
 Confidence Intervals for Proportions - Worked Example 2 (Household Damage(	
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 10, 2020	
 -------------------------------------------------------------------	
-5	
+
+### Video 169
+
 Video thumbnail:	Confidence Intervals for Proportions -  Worked Example 3 (Mail order delivery firm)
 06:37	
 Confidence Intervals for Proportions - Worked Example 3 (Mail order delivery firm)	
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 10, 2020	
+
 -------------------------------------------------------------------	
-8	
+
+### Video 170
+
 Video thumbnail:	The Pareto Type II Distribution - Median and Mean
 04:40	
 The Pareto Type II Distribution - Median and Mean	
 StatsResource.github.io | Probability Distributions | Continuous Distributions | The Pareto Distribution Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 10, 2020	
 -------------------------------------------------------------------	
-483	
-1	
-100.00%	
+
+### Video 171
+
+
 Video thumbnail:	Correlation Of Random Variables  (Worked Example)
 07:11	
 Correlation Of Random Variables (Worked Example)	
 StatsResource.github.io | Probability Random Variables Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 10, 2020	
+
 -------------------------------------------------------------------	
-14	
+
+### Video 172
+
 Video thumbnail:	Continuous Random Variables - Worked Example 1
 06:14	
 Continuous Random Variables - Worked Example 1	
 StatsResource.github.io | Probability Distributions | Continuous Random Variables Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-26	
+
+### Video 173
 100.00%	
 Video thumbnail:	Continuous Random Variables - Worked Example 2
 12:12	
@@ -167,7 +209,7 @@ Continuous Random Variables - Worked Example 2
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-12	
+### Video 174
 100.00%	
 Video thumbnail:	Continuous Random Variables - Worked Example 3
 13:16	
@@ -183,7 +225,7 @@ Continuous Random Variables - Worked Example 4
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-7	
+### Video 176
 100.00%	
 Video thumbnail:	Continuous Random Variables : Relationships between Density Functions
 09:11	
@@ -198,7 +240,7 @@ Continuous Random Variables - Worked Example 5
 StatsResource.github.io | Probability | Random Variables | Continuous Random Variables Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-18	
+### Video 178
 Video thumbnail:	Conditional Probability - Using Venn Diagrams
 06:34	
 Conditional Probability - Using Venn Diagrams	
@@ -212,7 +254,7 @@ Probability Exercise - Airport Arrivals and Departures
 StatsResource.github.io | Probability | Conditional Probability Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-72	
+### Video 180
 Video thumbnail:	Probability - Mutually Exclusive Events
 05:11	
 Probability - Mutually Exclusive Events	
@@ -226,8 +268,8 @@ Probability : Dice Roll Short Question
 StatsResource.github.io | Probability | Introduction to Probability Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-8	
-–	
+
+### Video 182
 Video thumbnail:	Probability - Using Venn Diagrams
 11:16	
 Probability - Using Venn Diagrams	
@@ -242,7 +284,8 @@ Probability Worked Example
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-5	
+
+### Video 184
 –	
 Video thumbnail:	Probability - Sampling without Replacement
 04:08	
@@ -258,8 +301,7 @@ Probability Worked Example
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-9	
-–	
+### Video 186
 Video thumbnail:	Probability - Worked Example
 09:26	
 Probability - Worked Example	
@@ -274,8 +316,9 @@ Probability - Independent Events (Traffic Lights Example)
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-85	
-–	
+
+### Video 188
+
 Video thumbnail:	Probability Worked Examples - Coin Toss Example
 07:08	
 Probability Worked Examples - Coin Toss Example	
@@ -290,8 +333,9 @@ Probability Worked Example (Independent Events) Electrical Circuits Example
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-138	
-100.00%	
+
+### Video 190
+
 Video thumbnail:	Condition Probability - Worked Example Age Of Insurance Claimants
 06:57	
 Condition Probability - Worked Example Age Of Insurance Claimants	
@@ -306,8 +350,8 @@ Conditional Probability - Worked Example - Additional Driving Education
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-24	
-100.00%	
+### Video 192
+
 Video thumbnail:	Probability - Independent Events
 01:50	
 Probability - Independent Events	
@@ -322,8 +366,7 @@ Probability Rules
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-19	
-–	
+### Video 194
 Video thumbnail:	Chi Square Test Worked Example 1 (Part 1)
 07:56	
 Chi Square Test Worked Example 1 (Part 1)	
@@ -338,8 +381,7 @@ Statistics with R: Single Sample Proportion Hypothesis Test
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
 -------------------------------------------------------------------	
-121	
-–	
+### Video 196
 Video thumbnail:	Chi Square Test Worked Example 1 (Part 2)
 10:10	
 Chi Square Test Worked Example 1 (Part 2)	
@@ -353,29 +395,35 @@ Video thumbnail:	Harmonic Mean
 Harmonic Mean	
 StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
 Nov 11, 2020	
+
 -------------------------------------------------------------------	
-9	
-–	
-Video thumbnail:	HypothesisTesting for Proportions - Worked Example
-13:20	
-HypothesisTesting for Proportions - Worked Example	
-StatsResource.github.io | Inference Procedures Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
-Nov 11, 2020	
+### Video 198	
+
+* Video thumbnail:	HypothesisTesting for Proportions - Worked Example
+* 13:20	
+* HypothesisTesting for Proportions - Worked Example	
+* StatsResource.github.io | Inference Procedures Statistics and Probability Tutorial Videos
+* Worked Examples and Demonstrations about Statistics	
+* Nov 11, 2020	
+
 -------------------------------------------------------------------	
-10	
-–	
-Video thumbnail:	Exponential Distribution - Worked Example
-09:59	
-Exponential Distribution - Worked Example	
-StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
-Nov 11, 2020	
+
+### Video 199
+
+* Video thumbnail:	Exponential Distribution - Worked Example
+* 09:59	
+* Exponential Distribution - Worked Example	
+* StatsResource.github.io Statistics and Probability Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+* Nov 11, 2020	
+
 -------------------------------------------------------------------	
 
 ### Video 200
 
-Video thumbnail:	Uniform Distribution - Worked Example
-12:18	
-Uniform Distribution - Worked Example	
-StatsResource.github.io | Probability Distributions | The Uniform Distribution Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
-Nov 11, 2020	
+* Video thumbnail:	Uniform Distribution - Worked Example
+* 12:18	
+* Uniform Distribution - Worked Example	
+* StatsResource.github.io | Probability Distributions | The Uniform Distribution Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics	
+* Nov 11, 2020	
+
 -------------------------------------------------------------------	
