@@ -218,70 +218,71 @@ StatsResource.github.io | Probability Distributions | Approximations - Worked Ex
 -------------------------------------------------------------------	
 ### Video 119
 
-Video thumbnail:	Conditional Probability - Worked Example
-07:45	
-Conditional Probability - Worked Example	
-Sep 19, 2020	
+* Video thumbnail:	Conditional Probability - Worked Example
+* 07:45	
+* Conditional Probability - Worked Example	
+* Sep 19, 2020	
 
 -------------------------------------------------------------------	
 ### Video 120
 
-Video thumbnail:	Width of Confidence Intervals - Worked Example
-05:48	
-Width of Confidence Intervals - Worked Example	
-StatsResource.github.io | Inference Procedures | Confidence Intervals	
-Sep 20, 2020	
+* Video thumbnail:	Width of Confidence Intervals - Worked Example
+* 05:48	
+* Width of Confidence Intervals - Worked Example	
+* StatsResource.github.io | Inference Procedures | Confidence Intervals	
+* Sep 20, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 121
 
-100.00%	
-Video thumbnail:	Exponential Distribution - Worked Example (with Binomial Distribution)
-06:46	
-Exponential Distribution - Worked Example (with Binomial Distribution)	
-StatsResource.github.io | Probability Distributions | Exponential Distribution - Worked Example	
-Sep 21, 2020	
+	
+* Video thumbnail:	Exponential Distribution - Worked Example (with Binomial Distribution)
+* 06:46	
+* Exponential Distribution - Worked Example (with Binomial Distribution)	
+* StatsResource.github.io | Probability Distributions | Exponential Distribution - Worked Example	
+* Sep 21, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 122
 
-Video thumbnail:	Confidence Intervals - Worked Example
-04:30	
-Confidence Intervals - Worked Example	
-StatsResource.github.io | Inference Procedures | Confidence Intervals - Worked Example	
-Sep 21, 2020	
+* Video thumbnail:	Confidence Intervals - Worked Example
+* 04:30	
+* Confidence Intervals - Worked Example	
+* StatsResource.github.io | Inference Procedures | Confidence Intervals - Worked Example
+* Sept 21, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 123
 
-Video thumbnail:	Probability Generating Functions - Worked Example
-05:22	
-Probability Generating Functions - Worked Example	
-StatsResource.github.io | Probability Distributions | Probability Generating Functions - Worked Example	
-Sep 21, 2020	
+* Video thumbnail:	Probability Generating Functions - Worked Example
+* 05:22	
+* Probability Generating Functions - Worked Example	
+* StatsResource.github.io | Probability Distributions | Probability Generating Functions - Worked Example	
+* Sep 21, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 124
 
-Video thumbnail:	Conditional Probability  - Worked Example (Workplace Accidents)
-08:08	
-Conditional Probability - Worked Example (Workplace Accidents)	
-StatsResource.github.io | Probability | Conditional Probability - Worked Example	
-Sep 21, 2020	
+* Video thumbnail:	Conditional Probability  - Worked Example (Workplace Accidents)
+* 08:08	
+* Conditional Probability - Worked Example (Workplace Accidents)	
+* StatsResource.github.io | Probability | Conditional Probability - Worked Example	
+* Sep 21, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 125
 
-Video thumbnail:	Distribution of Sums of Uniform Random Variables ( Central Limit Theorem - Worked Example)
-05:38	
-Distribution of Sums of Uniform Random Variables ( Central Limit Theorem - Worked Example)	
-StatsResource.github.io | Probability Distributions | Sums of Random Variables (Central Limit Theorem) - Worked Example	
-Sep 21, 2020	
+* Video thumbnail:	Distribution of Sums of Uniform Random Variables ( Central Limit Theorem - Worked Example)
+* 05:38	
+* Distribution of Sums of Uniform Random Variables ( Central Limit Theorem - Worked Example)	
+* StatsResource.github.io | Probability Distributions
+* Sums of Random Variables (Central Limit Theorem) - Worked Example	
+* Sep 21, 2020	
 
 -------------------------------------------------------------------	
 
@@ -297,41 +298,41 @@ Sep 21, 2020
 
 ### Video 127
 
-Moment Generating Functions ( Expected Values ) - Worked Example
-04:24	
-Moment Generating Functions ( Expected Values ) - Worked Example	
-statsresource.github.io | Probability | Moment Generating Functions	
-Sep 29, 2020	
+* Moment Generating Functions ( Expected Values ) - Worked Example
+* 04:24	
+* Moment Generating Functions ( Expected Values ) - Worked Example	
+* statsresource.github.io | Probability | Moment Generating Functions	
+* Sep 29, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 128
 
-Fundamentals of Probability - Venn Diagram Worked Example
-08:27	
-Fundamentals of Probability - Venn Diagram Worked Example	
-statsresource.github.io | Probability | Fundamentals of Probability | Venn Diagram Worked Example	
-Sep 29, 2020	
+* Fundamentals of Probability - Venn Diagram Worked Example
+* 08:27	
+* Fundamentals of Probability - Venn Diagram Worked Example	
+* statsresource.github.io | Probability | Fundamentals of Probability | Venn Diagram Worked Example	
+* Sep 29, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 129
 
-Video thumbnail:	The Gamma Distribution - Deriving the Cumulative Distribution Function
-14:06	
-The Gamma Distribution - Deriving the Cumulative Distribution Function	
-StatsResource.github.io | Probability Distributions | Gamma Distribution	
-Oct 27, 2020	
+* Video thumbnail:	The Gamma Distribution - Deriving the Cumulative Distribution Function
+* 14:06	
+* The Gamma Distribution - Deriving the Cumulative Distribution Function	
+* StatsResource.github.io | Probability Distributions | Gamma Distribution	
+* Oct 27, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 130
 
-Video thumbnail:	Gamma Distribution - Computing the Mode and Skewness Coefficient
-07:15	
-Gamma Distribution - Computing the Mode and Skewness Coefficient	
-StatsResource.github.io | Probability Distributions | Gamma Distribution	
-Oct 27, 2020	
+* Video thumbnail:	Gamma Distribution - Computing the Mode and Skewness Coefficient
+* 07:15	
+* Gamma Distribution - Computing the Mode and Skewness Coefficient	
+* StatsResource.github.io | Probability Distributions | Gamma Distribution	
+* Oct 27, 2020	
 
 -------------------------------------------------------------------	
 
@@ -367,31 +368,31 @@ Oct 27, 2020
 
 ### Video 134
 
-Video thumbnail:	Hypothesis Testing for Random Variables: Type I and Type II Errors
-06:25	
-Hypothesis Testing for Random Variables: Type I and Type II Errors	
-StatsResource.github.io | Random Variables | Hypothesis Testing	
-Oct 27, 2020	
+* <b>Hypothesis Testing for Random Variables: Type I and Type II Errors</b>
+* 06:25	
+* Hypothesis Testing for Random Variables: Type I and Type II Errors	
+* StatsResource.github.io | Random Variables | Hypothesis Testing	
+* Oct 27, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 135
 
-Video thumbnail:	Gamma Distribution: Cumulant Generating Function
-09:33	
-Gamma Distribution: Cumulant Generating Function	
-StatsResource.github.io | Probability | Moment Generating Functions | Cumulant Generating Functions	
-Oct 27, 2020	
+* Video thumbnail:	Gamma Distribution: Cumulant Generating Function
+* 09:33	
+* Gamma Distribution: Cumulant Generating Function	
+* StatsResource.github.io | Probability | Moment Generating Functions | Cumulant Generating Functions	
+* Oct 27, 2020	
 
 -------------------------------------------------------------------	
 
 ### Video 136
 
-Video thumbnail:	Gamma Distributions  - Relationship with the  Chi Square Distribution (Worked Example)
-07:49	
-Gamma Distributions - Relationship with the Chi Square Distribution (Worked Example)	
-StatsResource.github.io | Probability Distribution | Gamma Distribution	
-Oct 27, 2020	
+* Video thumbnail:	Gamma Distributions  - Relationship with the  Chi Square Distribution (Worked Example)
+* 07:49	
+* Gamma Distributions - Relationship with the Chi Square Distribution (Worked Example)	
+* StatsResource.github.io | Probability Distribution | Gamma Distribution	
+* Oct 27, 2020	
 
 -------------------------------------------------------------------	
 
@@ -407,7 +408,7 @@ Oct 27, 2020
 
 ### Video 138
 
-Survival Analysis - Tutorial Question on Maximum Likelihood Estimates
+<b>Survival Analysis - Tutorial Question on Maximum Likelihood Estimates</b>
 
 * Survival_Analysis_HC3_1998_q7_partA.mp4 
 * SR: Video 138
@@ -455,11 +456,11 @@ Survival Analysis :  Kaplan Meier Estimates (Lightbulb Example)
 ------------------------------------------------------------------------------------
 ### Video 142
 
-Dixon Q-Test For Outliers (Introduction to Hypothesis Testing)
-12:28	
-Dixon Q-Test For Outliers (Introduction to Hypothesis Testing)	
-StatsResource.github.io | Inference | Testing Model Assumptions & Introduction to Hypothesis Testing	
-Nov 2, 2020	
+* Dixon Q-Test For Outliers (Introduction to Hypothesis Testing)
+* 12:28	
+* Dixon Q-Test For Outliers (Introduction to Hypothesis Testing)	
+* StatsResource.github.io | Inference | Testing Model Assumptions & Introduction to Hypothesis Testing	
+* Nov 2, 2020	
 
 ------------------------------------------------------------------------------------
 
@@ -476,12 +477,11 @@ Nov 2, 2020
 
 ### Video 144
 
-100.00%	
-Video thumbnail:	Conditional Probability:  Worked Example
-04:37	
-Conditional Probability: Worked Example	
-StatsResource.github.io | Probability | Conditional Probability | Worked Examples	
-Nov 2, 2020	
+* Video thumbnail:	Conditional Probability:  Worked Example
+* 04:37	
+* Conditional Probability: Worked Example	
+* StatsResource.github.io | Probability | Conditional Probability | Worked Examples	
+* Nov 2, 2020	
 
 ------------------------------------------------------------------------------------
 
