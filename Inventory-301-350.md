@@ -5,9 +5,7 @@ StatsResource.github.io Statistics and Probability Tutorial Videos * Worked Exam
 Negative Binomial Distribution - Poisson-Gamma Mixture Worked Example
 09:51
  Negative Binomial Distribution - Poisson-Gamma Mixture Worked Example
-–
-0
-31
+
 ------------------------------------------------------------------------------
 ### Video 302
 Jan 12, 2022
@@ -125,9 +123,7 @@ StatsResource.github.io - Probability Distributions - The Negative Binomial Dist
 Negative Binomial Worked Example
 09:42
  Negative Binomial Worked Example
-–
-0
-7
+
 ------------------------------------------------------------------------------
 ### Video 312
 Feb 16, 2022
@@ -137,9 +133,7 @@ StatsResource.github.io Statistics and Probabilty Tutorial Videos * Worked Examp
 The Hypergeometric Distribution
 12:49
  The Hypergeometric Distribution
-–
-0
-8
+
 ------------------------------------------------------------------------------
 Feb 16, 2022
 
@@ -148,9 +142,7 @@ StatsResource.github.io - Inference - Inference for Two Samples Statistics and P
 Two Sample Inference Procedures - Part 1
 10:58
  Two Sample Inference Procedures - Part 1
-–
-0
-6
+
 ------------------------------------------------------------------------------
 ### Video 314
 
@@ -161,9 +153,7 @@ StatsResource.github.io Statistics and Probability Tutorial Videos * Worked Exam
 Two Sample Inference Procedure - Part 2
 10:12
  Two Sample Inference Procedure - Part 2
-–
-0
-6
+
 ------------------------------------------------------------------------------
 Feb 20, 2022
 
@@ -172,9 +162,7 @@ StatsResource.github.io Statistics and Probabilty Tutorial Videos * Worked Examp
 Two Sample Inference - Part 3
 12:37
  Two Sample Inference  - Part 3
-–
-0
-2
+
 ------------------------------------------------------------------------------
 ### Video 316
 
@@ -184,29 +172,25 @@ Feb 23, 2022
 Two Sample Inference - Part 4
 08:04
  Two Sample Inference - Part 4
-–
-0
-3
+
 ------------------------------------------------------------------------------
-Feb 23, 2022
+### Video 317
 
-
-StatsResource.github.io Statistics and Probabilty Tutorial Videos * Worked Examples and Demonstrations about Statistics
-Two Sample Inference - Part 5
-12:36
- Two Sample Inference  - Part 5
+* Feb 23, 2022
+* StatsResource.github.io Statistics and Probabilty Tutorial Videos * Worked Examples and Demonstrations about Statistics
+* Two Sample Inference - Part 5
+* 12:36
+*  Two Sample Inference  - Part 5
 
 ------------------------------------------------------------------------------
 ### Video 318
 
-Feb 23, 2022
-
-
-StatsResource.github.io Statistics and Probabilty Tutorial Videos 
+* Feb 23, 2022
+* StatsResource.github.io Statistics and Probabilty Tutorial Videos 
 * Worked Examples and Demonstrations about Statistics
-Hypothesis Test For Variance
-03:49
- Hypothesis Test For Variance
+* Hypothesis Test For Variance
+* 03:49
+* Hypothesis Test For Variance
 
 
 ---------------------------------------------------
@@ -224,7 +208,7 @@ Hypothesis Testing - Part 1
 
 ### Video 320
 
-Hypothesis Testing - Part 2
+<b>Hypothesis Testing - Part 2</b>
 
 - StatsResource.github.io Statistics and Probabilty Tutorial Videos
 - Worked Examples and Demonstrations about Statistics
@@ -272,12 +256,8 @@ StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examp
 
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics
 
-07:33
-–
-0
-7
-Published
-Mar 16, 2022
+* 07:33
+* Published: Mar 16, 2022
 
 --------------------------------------------------------------------------------
 
@@ -285,23 +265,19 @@ Mar 16, 2022
 
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics
 Probability - Worked Example
-11:22
-–
-0
-8
-Published
-Mar 16, 2022
+
+* 11:22
+* Published: Mar 16, 2022
 
 --------------------------------------------------------------------------------
+
 ### Video 326
+
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics
 Detecting Outliers for Boxplots
-05:52
-–
-0
-58
-Published
-Mar 16, 2022
+
+* 05:52
+* Published: Mar 16, 2022
 
 --------------------------------------------------------------------------------
 
@@ -309,24 +285,21 @@ Mar 16, 2022
 
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics
 Binomial Distribution - Worked Example Using Statistical Tables
-06:53
-3 likes
-100.00%
-1
-189
-Published
-Mar 18, 2022
+
+* 06:53
+* Published: Mar 18, 2022
 
 --------------------------------------------------------------------------------
+
 ### Video 328
+
+<b>Negative Binomial Distribution - Poisson Gamma Mixture Worked Example</b>
+
 StatsResource.github.io - Probability Distributions - Negative Binomial Distribution Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics
-Negative Binomial Distribution - Poisson Gamma Mixture Worked Example
-12:25
-–
-0
-5
-Published
-Mar 23, 2022
+
+
+* 12:25
+* Published: Mar 23, 2022
 
 --------------------------------------------------------------------------------
 ### Video 329
@@ -586,17 +559,13 @@ Negative Binomial Distribution - (a,b,0) relationship - worked example
 
 StatsResource.github.io - Negative Binomial Distribution Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics SR 03109 - April 2022
 
-04:27
-–
-0
-10
-Published
-Apr 16, 2022
+* 04:27
+* Published Apr 16, 2022
 
 --------------------------------------------------------------------------------
 ### Video 349
 
-Normal Distribution - Worked Example - Widget Factory
+<b>Normal Distribution - Worked Example - Widget Factory</b>
 
 StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics
 
