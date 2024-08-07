@@ -146,15 +146,19 @@ StatsResource.github.io | Discrete Random Variables
 
 ### Video 417 
 
-StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics					
+StatsResource.github.io Statistics and Probabilty Tutorial Videos 
+
+* Worked Examples and Demonstrations about Statistics					
 * Simulation with Random Number Actuarial Example					
 * 12:26					
 
 ------------------------------------------------------------------
 
 ### Video 418   
-StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics					
-Continuous Random Variables Expected values and Unbiased Estimation Worked Example					
-06:20					
+StatsResource.github.io Statistics and Probabilty Tutorial Videos 
+
+* Worked Examples and Demonstrations about Statistics					
+* Continuous Random Variables - Expected values and Unbiased Estimation Worked Example					
+* 06:20					
 					
 					
