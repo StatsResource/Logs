@@ -96,7 +96,7 @@ StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examp
 * Continuous Random Variables - Expected values and Unbiased Estimation Worked Example					
 * 06:20					
 			
-
+* 
 ----------------------------------------------------------------------------			
 
 ### Video 412
@@ -110,11 +110,15 @@ StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examp
 
 ---------------------------------------
 
-StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics					
-Confidence Intervals for Proportions - Worked Example					
-05:57					
+### Video 413
+
+* StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics					
+* Confidence Intervals for Proportions - Worked Example					
+* 05:57					
 
 ---------------------------------------
+
+### Video 414
 
 Oct 15, 2022					
 None					
@@ -124,10 +128,17 @@ Discrete Random Variables - Expectation Of Difference of Values
 
 * Runtime: 05:06
 * Published: Oct 15, 2022					
-			
-StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics AERL 004 FIA CT6 2012 April Q1					
-Exponential Familty of Random Variables - Theory Question					
-03:24				
+
+------------------------------------------------------------------
+
+
+### Video 415
+
+StatsResource.github.io Statistics and Probabilty Tutorial Videos - Worked Examples and Demonstrations about Statistics
+
+* Title: Exponential Familty of Random Variables - Theory Question					
+* Runtime: 03:24
+* AERL 004 FIA CT6 2012 April Q1
 
 ------------------------------------------------------------------
 
@@ -160,5 +171,125 @@ StatsResource.github.io Statistics and Probabilty Tutorial Videos
 * Worked Examples and Demonstrations about Statistics					
 * Continuous Random Variables - Expected values and Unbiased Estimation Worked Example					
 * 06:20					
-					
+
+	
+-------------------
+
+### Video 419	
+Title	
+RLB-001	
+* Release: December 2024	
+-------------------
+
+### Video 420	
+Title	
+RLB-002	
+* Release: December 2024	
+-------------------
+
+### Video 421	
+Title	
+RLB-003	
+* Release: December 2024	
+-------------------
+
+### Video 422	
+Title	
+RLB-004	
+* Release: December 2024	
+
+-------------------
+
+### Video 423	
+Title	
+RLB-005	
+* Release: December 2024	
+	
+-------------------
+
+### Video 424	
+Title	
+RLB-006	
+* Release: December 2024	
+	
+-------------------
+
+### Video 425	
+Title	
+RLB-007	
+* Release: December 2024	
+	
+	
+-------------------
+
+### Video 426	
+Title	
+RLB-008	
+* Release: December 2024	
+	
+	
+-------------------
+
+### Video 427	
+* Title: Pareto Probability Distribution
+* Serial: RLB-009
+* Runtime: 08.11
+* Release: 11th December 2024	
+
+-------------------
+
+### Video 428	
+* Title: Weibull Probability Distribution
+* Serial: RLB-010
+* Runtime: 07.01
+* Release: 11th December 2024	
+
+-------------------
+
+### Video 429
+	
+* Title: Discrete Random Variables
+* Serial: RLB-011	
+* Runtime: 06:14
+* Release: 18th December 2024	
+	
+-------------------
+
+### Video 430	
+
+* Title: Cauchy Probability Distribution
+* Serial: RLB-012	
+* Runtime: 06:22
+* Release: 18th December 2024	
+	
+	
+	
+-------------------
+
+### Video 431	
+Title	
+RLB-013	
+* Release: December 2024	
+	
+-------------------
+
+### Video 432	
+Title	
+RLB-014	
+* Release: December 2024	
+	
+-------------------
+
+### Video 433	
+Title	
+RLB-015	
+* Release: December 2024	
+	
+-------------------
+
+### Video 434	
+Title	
+RLB-016	
+* Release: December 2024	
+
 					
